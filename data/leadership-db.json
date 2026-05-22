@@ -1,0 +1,223 @@
+{
+  "meta": {
+    "version": "2.0.0",
+    "updated": "2026-05-21",
+    "primary_source": "Kenneth_Onyebinachi_Resume_SE_Manager.docx",
+    "secondary_source": "KOLeadershipDeck.pptx",
+    "linkedin_url": "https://www.linkedin.com/in/kenneth-onyebinachi-jr/"
+  },
+  "person": {
+    "display_name": "Kenneth Onyebinachi Jr.",
+    "legal_name": "Kenneth Onyebinachi Jr.",
+    "headline": "Manager, Systems Engineering | Solutions Engineering Leader | Pre-Sales Team Builder",
+    "linkedin_slug": "kenneth-onyebinachi-jr",
+    "summary": "Solutions Engineering professional with 8+ years across Cisco, Honeywell, and enterprise technology, ready to step into people leadership as a Manager of Systems or Solutions Engineering. Combines current pre-sales depth with prior people-management experience and measurable customer outcomes.",
+    "education": [
+      {
+        "institution": "University of Alabama in Huntsville",
+        "degree": "Bachelor of Science, Computer Engineering",
+        "year": 2016,
+        "verified_via": "resume"
+      }
+    ],
+    "certifications": [
+      { "name": "Certified Scrum Master (CSM)", "verified_via": "resume" },
+      { "name": "Certified Technical Project Manager (CTPM)", "verified_via": "resume" },
+      { "name": "AI for Business Systems, Johns Hopkins University", "status": "in progress", "verified_via": "resume" }
+    ],
+    "current_title": {
+      "value": "Collaboration Renewals Solutions Engineer",
+      "employer": "Cisco",
+      "period": "Jan 2024 – Present",
+      "verified_via": "resume"
+    },
+    "strengths_profile": {
+      "primary": ["Connector", "Stimulator"],
+      "verified_via": "deck_slide_4"
+    },
+    "portrait_asset": {
+      "file": "assets/images/kenneth-bio.jpg",
+      "source_slide": 4,
+      "source_media": "image23.png",
+      "usage_rule": "ONLY portrait outside motivators gallery. Slide 3 images only in Personal Interests section."
+    }
+  },
+  "career_highlights": [
+    "Raised renewal rates on Cisco collaboration platforms from below 50% to over 70% by identifying adoption gaps, addressing technical blockers, and aligning architecture to business outcomes.",
+    "Led cross-functional engineering teams at Honeywell as Scrum Master and Team Lead—sprint cadence, backlog priorities, delivery planning, and performance development.",
+    "Reduced test fixture setup time from 10 hours to 2 hours through Python-based automation (VM authentication, file versioning, cleanup).",
+    "Designed and implemented AI-powered automation tools at Cisco for the Renewals SE team.",
+    "Mentored and onboarded engineers domestically and internationally at Honeywell with structured retrospectives and feedback cycles."
+  ],
+  "career_path": [
+    {
+      "employer": "Cisco",
+      "role": "Collaboration Renewals Solutions Engineer",
+      "period": "Jan 2024 – Present",
+      "achievements": [
+        "Drive adoption of Cisco collaboration platforms with global sales teams and enterprise customers",
+        "Raised renewal rates from below 50% to over 70%",
+        "Partner 1:1 with Renewals Specialists on architecture aligned to customer strategic objectives",
+        "Empower channel partners and RSs through technical enablement and joint customer engagement",
+        "Evaluate environments for misalignment, underutilized capabilities, and renewal risk",
+        "Lead cross-functional coordination across sales, engineering, partners, and customers",
+        "Designed AI-powered automation for analysis, reporting, and operational workflows"
+      ],
+      "verified_via": "resume"
+    },
+    {
+      "employer": "Cisco",
+      "role": "CSAP - ASE",
+      "period": "2019 – 2020",
+      "achievements": [],
+      "verified_via": "user_confirmed",
+      "note": "Cisco Sales Associate Program — Associate Systems Engineer"
+    },
+    {
+      "employer": "Cisco",
+      "role": "Technical Solutions Specialist",
+      "period": "Jan 2020 – Jan 2024",
+      "achievements": [
+        "Technical enablement and architecture overviews on Cisco collaboration and integrations",
+        "Supported consultative sales by translating requirements into solution alignment",
+        "Represented customer architectural needs in product and engineering roadmap conversations",
+        "Developed integration guidance, deployment documentation, and technical value narratives",
+        "Built internal documentation for global sales engagements"
+      ],
+      "verified_via": "resume"
+    },
+    {
+      "employer": "Honeywell",
+      "role": "Scrum Master and Team Lead",
+      "period": "Oct 2017 – Jan 2019",
+      "achievements": [
+        "Led cross-functional teams on firmware and embedded systems initiatives",
+        "Owned sprint cadence, backlog priorities, and predictable delivery",
+        "Mentored engineers; structured retrospectives and feedback cycles",
+        "Onboarded engineers domestically and internationally",
+        "Python automation reducing test fixture setup from 10 hours to 2 hours",
+        "Provided performance insights to leadership for strategic planning"
+      ],
+      "verified_via": "resume"
+    }
+  ],
+  "metrics": [
+    {
+      "id": "renewal_rate",
+      "value": "Below 50% → over 70%",
+      "label": "Cisco collaboration platform renewal rates",
+      "description": "By identifying adoption gaps, addressing technical blockers, and aligning architecture decisions to customer business outcomes.",
+      "verified_via": "resume"
+    },
+    {
+      "id": "test_fixture_automation",
+      "value": "10 hours → 2 hours",
+      "label": "Test fixture setup time (Honeywell)",
+      "verified_via": "resume"
+    }
+  ],
+  "personal": {
+    "about_me": "Connecting with others to put them in the best position to succeed. Remaining positive—there is always an opportunity to learn. Constantly growing by gleaning traits from others, applying them to myself, and giving back when there is a chance to teach.",
+    "interests": ["Sports", "Technology", "Travel", "TV/Movies", "Anime"],
+    "focus_areas": ["Learning technologies", "Networking", "Organizational intelligence"],
+    "verified_via": "deck_slide_4"
+  },
+  "leadership_principles": [
+    { "name": "Empathy" },
+    { "name": "Creativity" },
+    { "name": "Trust" },
+    { "name": "Meaningful" },
+    { "name": "Accountability" },
+    { "name": "Transparency" },
+    { "name": "Authenticity" }
+  ],
+  "leadership_style": {
+    "section_title": "How I Stand Out",
+    "subtitle": "Empowering teams on the journey to sales enablement excellence",
+    "archetypes": [
+      { "name": "Energy Navigator", "description": "Innate sense of group energy; introduces the right spark at the right moment." },
+      { "name": "Frontline Presence", "description": "Thrives with customers, employees, and partners—positive first impressions." },
+      { "name": "Atmosphere Builder", "description": "Tunes meetings, training, and enablement to capture and sustain energy." },
+      { "name": "Momentum Driver", "description": "Translates energy into action, adoption, and lasting impact." }
+    ],
+    "verified_via": "deck_slide_8"
+  },
+  "plan_30_60_90": {
+    "type": "target_role_readiness",
+    "context": "From leadership portfolio deck — adapt in interview to SE Manager scope",
+    "phases": {
+      "30": [
+        "Build relationships with GVSE, SP&O, regional managers, and sellers",
+        "Audit enablement assets and adoption data",
+        "Shadow sales teams for real workflows and pain points",
+        "Share What I'm Hearing insights + deliver 1–2 quick wins"
+      ],
+      "60": [
+        "Define mission statement and value proposition",
+        "Design frameworks",
+        "Launch pilot (Live AMA for Mid-Market sellers)",
+        "Strategy update deck linking enablement to KPIs"
+      ],
+      "90": [
+        "Scale onboarding + continuous learning (SMB & Mid-Market)",
+        "Enablement dashboard (ramp time, adoption, renewal impact)",
+        "90-day impact review + 6–12 month roadmap"
+      ]
+    },
+    "verified_via": "deck_slide_9"
+  },
+  "today": {
+    "role": "Collaboration Renewals Solutions Engineer",
+    "employer": "Cisco",
+    "period": "Jan 2024 – Present",
+    "responsibilities": [
+      "Drive adoption and reduce renewal risk with global sales and enterprise customers",
+      "Partner with Renewals Specialists on collaboration and software architectures",
+      "Enable channel partners through technical enablement and GTM alignment",
+      "Develop adoption and mitigation strategies for architectural misalignment",
+      "Coordinate sales, engineering, partner, and customer stakeholders",
+      "Contribute to portfolio strategy for retention and lifecycle value"
+    ],
+    "stakeholders": ["Kristin Gioberto", "Ayanna John", "Temi Ajasa", "John Centamore"],
+    "stakeholders_note": "From portfolio deck; confirm current names for interview",
+    "growth_areas": [
+      "Scaling formal people-management scope beyond Honeywell team lead experience",
+      "Organizational intelligence at Cisco scale",
+      "Visibility of systems/solutions engineering leadership paths"
+    ],
+    "verified_via": "resume_and_deck"
+  },
+  "legacy": {
+    "narrative": "Faith and family at the core; meaningful impact; systems that empower others; mentoring youth from similar backgrounds.",
+    "endorsement": {
+      "quote": "Leverage authentic leadership, decision-making skills, and the ability to guide teams through the VUCA of Cisco to develop partners in their ability to deliver on the promise of workplace transformation based on Cisco Collaboration platforms and technologies.",
+      "attribution": "Dag Peak, Cisco",
+      "verified_via": "deck_speaker_notes"
+    }
+  },
+  "narrative": {
+    "core_message": "Kenneth turns group energy into lasting outcomes—8+ years from Honeywell team lead to Cisco Renewals SE, with renewal rates from below 50% to over 70% and a track record of building people, systems, and adoption.",
+    "target_role": "Manager, Systems Engineering / Solutions Engineering"
+  },
+  "removed_inaccuracies": [
+    "AT&T Wire Technician (not on resume)",
+    "Collab Renewal SE since 2019 (resume: TSS Jan 2020–Jan 2024, Renewals SE Jan 2024–Present)",
+    "114.59% collaboration metric (resume uses 50%→70% renewal rates)",
+    "Firmware Verification Engineer as Honeywell title (resume: Scrum Master and Team Lead)",
+    "Durham NC (not on resume)"
+  ],
+  "slides": {
+    "3": {
+      "motivator_assets": [
+        "assets/images/motivators/motivator-11.jpg",
+        "assets/images/motivators/motivator-14.jpg",
+        "assets/images/motivators/motivator-16.jpg",
+        "assets/images/motivators/motivator-18.jpg",
+        "assets/images/motivators/motivator-20.jpg",
+        "assets/images/motivators/motivator-21.jpg",
+        "assets/images/motivators/motivator-22.jpg",
+        "assets/images/motivators/motivator-12.jpg"
+      ]
+    }
+  }
+}
