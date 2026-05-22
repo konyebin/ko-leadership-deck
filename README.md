@@ -23,14 +23,22 @@ python3 -m http.server 8080
 - **↓ / Page Down** — next chapter
 - **↑ / Page Up** — previous chapter
 
-## Deploy to GitHub Pages
+## Live site (GitHub Pages)
 
-1. Create a repo (e.g. `ko-leadership-deck`) and push this folder’s contents to `main`.
-2. Ensure `.nojekyll` is at the repo root (included).
-3. In GitHub: **Settings → Pages → Source**: Deploy from branch `main`, folder `/ (root)`.
-4. Your site will be at `https://<username>.github.io/<repo>/`.
+**https://konyebin.github.io/ko-leadership-deck/**
 
-Alternatively, copy this folder into an existing repo’s `docs/` directory and set Pages source to `/docs`.
+Repo: https://github.com/konyebin/ko-leadership-deck
+
+Open that URL on any computer or phone (no install required). First deploy after a push may take 1–2 minutes.
+
+### Update the live site
+
+```bash
+cd /Users/konyebin/CLAUDE/ko-leadership-deck
+git add -A
+git commit -m "Describe your change"
+git push
+```
 
 ## Project structure
 
