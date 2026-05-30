@@ -11,7 +11,7 @@
     "legal_name": "Kenneth Onyebinachi Jr.",
     "headline": "SE Manager · Associate Solutions Engineer (ASE) Program",
     "linkedin_slug": "kenneth-onyebinachi-jr",
-    "summary": "Honeywell scrum lead. CSAP ASE → TSS → Renewals SE. Collab renewals below 50% to 70%+. CSM, CTPM, Johns Hopkins AI for Business Systems.",
+    "summary": "Honeywell scrum lead. CSAP ASE → Collab SE → Collaboration Renewals SE. Collab renewals below 50% to 70%+. CSM, CTPM, Johns Hopkins AI for Business Systems.",
     "education": [
       {
         "institution": "University of Alabama in Huntsville",
@@ -50,15 +50,15 @@
   },
   "ase_program_story": {
     "headline": "Where ASEs get stuck",
-    "narrative": "CSAP ASE → TSS → Renewals SE. Collab renewals below 50% to 70%+. Honeywell team lead before that.",
+    "narrative": "CSAP ASE → Collab SE → Collaboration Renewals SE. Collab renewals below 50% to 70%+. Honeywell team lead before that.",
     "program_to_results": [
       {
         "stage": "CSAP ASE",
         "outcome": "Discovery, demos, not freezing on customer calls"
       },
       {
-        "stage": "TSS (2020–2024)",
-        "outcome": "Enablement, customer architecture, field feedback to product teams"
+        "stage": "Collab SE (2020–2024)",
+        "outcome": "Collaboration Solutions Engineer: enabled sales and partners on Webex, calling, and meetings; helped customers design the right setup; brought field feedback to product and engineering"
       },
       {
         "stage": "Renewals SE (2024–now)",
@@ -77,7 +77,7 @@
   },
   "career_highlights": [
     "Raised renewal rates on Cisco collaboration platforms from below 50% to over 70% by identifying adoption gaps, addressing technical blockers, and aligning architecture to business outcomes.",
-    "CSAP ASE, then TSS and Renewals SE.",
+    "CSAP ASE, then Collab SE and Collaboration Renewals SE.",
     "Led cross-functional engineering teams at Honeywell as Scrum Master and Team Lead—sprint cadence, backlog priorities, delivery planning, and performance development.",
     "Reduced test fixture setup time from 10 hours to 2 hours through Python-based automation (VM authentication, file versioning, cleanup).",
     "Designed and implemented AI-powered automation tools at Cisco for the Renewals SE team.",
@@ -99,13 +99,15 @@
     },
     {
       "employer": "Cisco",
-      "role": "Technical Solutions Specialist",
+      "role": "Collaboration Solutions Engineer (Collab SE)",
+      "display_title": "Collaboration SE (Collab SE)",
+      "resume_title": "Technical Solutions Specialist",
       "period": "Jan 2020 – Jan 2024",
       "achievements": [
-        "Technical enablement and architecture overviews on Cisco collaboration solutions and integrations",
-        "Supported consultative sales by translating requirements into solution alignment",
-        "Represented customer architectural needs in product and engineering roadmap conversations",
-        "Developed integration guidance, deployment documentation, and technical value narratives"
+        "Enabled sales teams and partners on Cisco collaboration—demos, designs, troubleshooting on Webex, calling, and meetings",
+        "Helped customers map the right architecture and translated requirements into solution alignment",
+        "Heard customer problems in the field and shared that feedback with product and engineering teams",
+        "Built integration guidance, deployment documentation, and technical value narratives"
       ],
       "verified_via": "resume"
     },
@@ -114,7 +116,7 @@
       "role": "CSAP — Associate Solutions Engineer (ASE)",
       "achievements": [
         "Discovery, demos, solution alignment",
-        "Progressed to Technical Solutions Specialist"
+        "Progressed to Collaboration Solutions Engineer (Collab SE)"
       ],
       "verified_via": "user_confirmed"
     },
@@ -234,7 +236,7 @@
           "Draft week-by-week onboarding for day 1 of the program",
           "Coaching rubric tied to CSAP milestones",
           "Lock shadow roster with sellers before anyone arrives",
-          "Pilot AMA format with TSS peers as stand-in audience"
+          "Pilot AMA format with other Collab SEs as a stand-in audience"
         ]
       },
       "61_90": {
