@@ -25,7 +25,7 @@
 2. **People leadership proof** — Honeywell Scrum Master & Team Lead with mentoring, velocity, retrospectives.
 3. **Business outcomes** — 50%→70% renewal rates; 10h→2h automation.
 4. **Current scope** — Renewals SE bullets match resume (RS partnership, partners, AI tooling).
-5. **Credentials** — CSM, CTPM, Johns Hopkins AI in progress visible on site.
+5. **Credentials** — CSM, CTPM, Johns Hopkins AI for Business Systems visible on site.
 
 ## Interview prep questions
 

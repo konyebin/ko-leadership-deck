@@ -1,7 +1,7 @@
 {
   "meta": {
     "version": "2.1.0",
-    "updated": "2026-05-22",
+    "updated": "2026-05-21",
     "primary_source": "Kenneth_Onyebinachi_Resume_SE_Manager.docx",
     "secondary_source": "KOLeadershipDeck.pptx",
     "linkedin_url": "https://www.linkedin.com/in/kenneth-onyebinachi-jr/"
@@ -11,7 +11,7 @@
     "legal_name": "Kenneth Onyebinachi Jr.",
     "headline": "SE Manager · Associate Solutions Engineer (ASE) Program",
     "linkedin_slug": "kenneth-onyebinachi-jr",
-    "summary": "Applying for SE Manager over new ASEs. CSAP grad ('19)—same program I'd run. Honeywell scrum lead. Cisco: TSS four years, Renewals SE since '24. Collab renewals below 50% to 70%+. CSM, CTPM.",
+    "summary": "Applying for SE Manager over new ASEs. CSAP grad ('19)—same program I'd run. Honeywell scrum lead. Cisco: TSS four years, Renewals SE since '24. Collab renewals below 50% to 70%+. CSM, CTPM, Johns Hopkins AI for Business Systems.",
     "education": [
       {
         "institution": "University of Alabama in Huntsville",
@@ -23,7 +23,7 @@
     "certifications": [
       { "name": "Certified Scrum Master (CSM)", "verified_via": "resume" },
       { "name": "Certified Technical Project Manager (CTPM)", "verified_via": "resume" },
-      { "name": "AI for Business Systems, Johns Hopkins University", "verified_via": "resume" }
+      { "name": "AI for Business Systems, Johns Hopkins University", "status": "completed", "verified_via": "user" }
     ],
     "current_title": {
       "value": "Collaboration Renewals Solutions Engineer",
