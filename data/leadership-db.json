@@ -11,7 +11,7 @@
     "legal_name": "Kenneth Onyebinachi Jr.",
     "headline": "SE Manager · Associate Solutions Engineer (ASE) Program",
     "linkedin_slug": "kenneth-onyebinachi-jr",
-    "summary": "Applying for SE Manager over new ASEs. CSAP grad ('19)—same program I'd run. Honeywell scrum lead. Cisco: TSS four years, Renewals SE since '24. Collab renewals below 50% to 70%+. CSM, CTPM, Johns Hopkins AI for Business Systems.",
+    "summary": "Honeywell scrum lead. CSAP ASE '19–'20 → TSS → Renewals SE. Collab renewals below 50% to 70%+. CSM, CTPM, Johns Hopkins AI for Business Systems.",
     "education": [
       {
         "institution": "University of Alabama in Huntsville",
@@ -46,11 +46,11 @@
     "title": "Systems Engineering Manager",
     "focus": "Associate Solutions Engineers (ASEs)",
     "program": "CSAP — Cisco Sales Associate Program",
-    "pitch": "I ran CSAP as an ASE. I know the ramp. I want to manage the next cohort."
+    "pitch": "Know the ramp. Honeywell team lead. Collab renewals below 50% to 70%+."
   },
   "ase_program_story": {
-    "headline": "Same program. Different seat.",
-    "narrative": "CSAP ASE '19–'20 → TSS → Renewals SE. Collab renewals below 50% to 70%+. Honeywell team lead before that. I'm not guessing what new ASEs need—I lived it.",
+    "headline": "Where ASEs get stuck",
+    "narrative": "CSAP ASE '19–'20 → TSS → Renewals SE. Collab renewals below 50% to 70%+. Honeywell team lead before that.",
     "program_to_results": [
       {
         "stage": "ASE (2019–2020)",
@@ -70,15 +70,14 @@
       }
     ],
     "why_manage_ases": [
-      "Lived the ASE path—not theory",
-      "Already managed engineers at Honeywell",
+      "Honeywell team lead—sprints, onboarding, US + international",
       "Built automation and docs that help teams move faster",
-      "Connector/Stimulator—good fit for nervous new cohorts"
+      "Connector/Stimulator—read the room, keep energy up"
     ]
   },
   "career_highlights": [
     "Raised renewal rates on Cisco collaboration platforms from below 50% to over 70% by identifying adoption gaps, addressing technical blockers, and aligning architecture to business outcomes.",
-    "Graduated CSAP as an ASE (2019–2020) and progressed to TSS and Renewals SE—proof of the program path I would steward as manager.",
+    "CSAP ASE (2019–2020), then TSS and Renewals SE.",
     "Led cross-functional engineering teams at Honeywell as Scrum Master and Team Lead—sprint cadence, backlog priorities, delivery planning, and performance development.",
     "Reduced test fixture setup time from 10 hours to 2 hours through Python-based automation (VM authentication, file versioning, cleanup).",
     "Designed and implemented AI-powered automation tools at Cisco for the Renewals SE team.",
@@ -115,9 +114,8 @@
       "role": "CSAP — Associate Solutions Engineer (ASE)",
       "period": "2019 – 2020",
       "achievements": [
-        "Completed Cisco Sales Associate Program as an Associate Solutions Engineer",
-        "Built foundation in pre-sales discovery, technical demos, and solution alignment",
-        "Progressed to Technical Solutions Specialist—the career path today's ASEs develop toward"
+        "Discovery, demos, solution alignment",
+        "Progressed to Technical Solutions Specialist"
       ],
       "verified_via": "user_confirmed"
     },
@@ -241,7 +239,7 @@
     }
   },
   "narrative": {
-    "core_message": "CSAP ASE grad ready to manage the next cohort. Honeywell team lead. Collab renewals below 50% to 70%+.",
+    "core_message": "Know where ASEs get stuck. Honeywell team lead. Collab renewals below 50% to 70%+.",
     "target_role": "SE Manager — ASE program",
     "voice": "Terse, conversational, context-heavy. No framework labels on the public site."
   },
