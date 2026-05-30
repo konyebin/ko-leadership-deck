@@ -390,6 +390,85 @@ h3 {
   margin-right: 0.5rem;
 }
 
+.story-labels {
+  display: grid;
+  grid-template-columns: 1fr;
+  gap: 1.5rem;
+  margin-top: 2rem;
+  max-width: 40rem;
+}
+
+@media (min-width: 640px) {
+  .story-labels {
+    grid-template-columns: 1fr 1fr;
+  }
+}
+
+.story-block h3 {
+  font-family: var(--font-display);
+  font-size: 1rem;
+  color: var(--teal-bright);
+  margin: 0 0 0.75rem;
+  font-weight: 600;
+}
+
+.labeled-list {
+  list-style: none;
+  padding: 0;
+  margin: 0;
+}
+
+.labeled-list li {
+  padding: 0.5rem 0;
+  border-bottom: 1px solid rgba(255, 255, 255, 0.08);
+  font-size: 0.95rem;
+}
+
+.labeled-list li:last-child {
+  border-bottom: none;
+}
+
+.labeled-list .item-label {
+  display: inline-block;
+  min-width: 6.5rem;
+  font-weight: 700;
+  color: var(--white);
+  margin-right: 0.35rem;
+}
+
+.labeled-list-inline {
+  display: flex;
+  flex-wrap: wrap;
+  gap: 0.5rem;
+}
+
+.labeled-list-inline li {
+  border: none;
+  padding: 0.35rem 0.75rem;
+  background: rgba(255, 255, 255, 0.08);
+  border-radius: 4px;
+  font-size: 0.85rem;
+}
+
+.labeled-list-inline .item-label {
+  min-width: 0;
+  margin-right: 0;
+}
+
+.principles-heading {
+  font-family: var(--font-display);
+  font-size: 1rem;
+  color: var(--teal-bright);
+  margin: 1.25rem 0 0.35rem;
+  font-weight: 600;
+}
+
+.principles-note {
+  font-size: 0.85rem;
+  color: var(--gray-muted);
+  margin: 0 0 0.75rem;
+}
+
 /* Who */
 .section-who {
   background: var(--navy-light);
