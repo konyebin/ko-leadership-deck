@@ -13,6 +13,13 @@
 <body>
   <a class="skip-link" href="#hook">Skip to story</a>
 
+  <div class="scene-chrome" aria-hidden="true">
+    <span class="scene-current">01</span>
+    <span class="scene-sep">/</span>
+    <span class="scene-total">08</span>
+  </div>
+  <p class="scene-hint" aria-hidden="true">Scroll or ↓</p>
+
   <nav class="chapter-nav" aria-label="Sections">
     <ol>
       <li><a href="#hero" data-section="hero"><span class="dot"></span><span class="label">Start</span></a></li>
@@ -27,8 +34,8 @@
     <div class="progress-bar" aria-hidden="true"><span class="progress-fill"></span></div>
   </nav>
 
-  <main id="main">
-    <section id="hero" class="section section-hero" data-chapter="hero">
+  <main id="main" class="scene-stage">
+    <section id="hero" class="section section-hero" data-chapter="hero" data-transition="fade">
       <div class="hero-bg" role="presentation"></div>
       <div class="section-inner reveal">
         <h1>I know where ASEs get stuck.</h1>
@@ -42,16 +49,16 @@
             <a href="https://www.linkedin.com/in/kenneth-onyebinachi-jr/" class="linkedin-link" target="_blank" rel="noopener noreferrer">LinkedIn</a>
           </div>
         </div>
-        <a href="#hook" class="scroll-cue" aria-label="Keep reading">Keep reading ↓</a>
+        <button type="button" class="scroll-cue scene-advance" data-scene-next aria-label="Next scene">Keep going ↓</button>
       </div>
     </section>
 
-    <section id="hook" class="section section-hook" data-chapter="hook">
+    <section id="hook" class="section section-hook" data-chapter="hook" data-transition="rise">
       <div class="section-inner reveal">
         <h2>The ramp, shadows, first customer calls.</h2>
         <p class="lead">CSAP ASE '19–'20 → four years TSS → Renewals SE since Jan '24. At Honeywell I ran a team—sprints, onboarding, engineers in the US and overseas.</p>
         <blockquote class="pull-quote">
-          <p>I don't just read the room. I know when energy drops and what to do about it.</p>
+          <p>I went through this program myself, so I understand the pressure, uncertainty, and learning curve that comes with starting out.</p>
         </blockquote>
         <ol class="career-strip" aria-label="Career">
           <li><span class="period">2017–2019</span><span class="employer">Honeywell</span> Scrum Master &amp; Team Lead</li>
@@ -62,7 +69,7 @@
       </div>
     </section>
 
-    <section id="who" class="section section-who" data-chapter="who">
+    <section id="who" class="section section-who" data-chapter="who" data-transition="clip">
       <div class="section-inner reveal">
         <h2>Who I am</h2>
         <div class="who-grid">
@@ -87,8 +94,12 @@
             </ul>
           </article>
           <article class="who-block who-block-bio">
-            <h3>How I work</h3>
-            <p>I put people in a position to win. I stay positive—not naive, just looking for the lesson. I steal good habits from people I respect and pass them on when I can teach.</p>
+            <h3>Why Kenneth</h3>
+            <div class="why-kenneth">
+              <p><strong>Empathy.</strong> I went through this program myself—that pressure, uncertainty, and learning curve. It helps me connect with early-career SEs in a genuine way.</p>
+              <p><strong>Experience.</strong> Engineering, presales, customer engagement, automation, onboarding, enablement. I help ASEs build technical skills and the communication, adaptability, and business mindset to succeed long term.</p>
+              <p><strong>Growth.</strong> I grew from deeply technical roles into a strategic, customer-focused professional. That journey is how I guide technical and professional growth.</p>
+            </div>
             <p class="certs-inline">Johns Hopkins — AI for Business Systems</p>
             <ul class="principle-pills">
               <li>Empathy</li>
@@ -108,7 +119,7 @@
       </div>
     </section>
 
-    <section id="proof" class="section section-proof" data-chapter="proof">
+    <section id="proof" class="section section-proof" data-chapter="proof" data-transition="shift">
       <div class="section-inner reveal">
         <h2>Proof</h2>
         <div class="stats-row">
@@ -165,9 +176,17 @@
       </div>
     </section>
 
-    <section id="lead" class="section section-lead" data-chapter="lead">
+    <section id="lead" class="section section-lead" data-chapter="lead" data-transition="blur">
       <div class="section-inner reveal">
         <h2>How I lead</h2>
+        <p class="career-blueprint">I'm an outcomes-driven, collaborative leader—transparency, accountability, trust, open communication, empathy, adaptability. I align teams on business objectives and customer success, solve complex problems, and create an environment where people feel empowered and motivated. Renewal performance from below 50% to over 70% came from closing adoption gaps and strengthening stakeholder engagement—not slide decks alone.</p>
+        <ul class="blueprint-pills">
+          <li>Empathy</li>
+          <li>Big picture mindset</li>
+          <li>Creativity</li>
+          <li>Authentic leadership</li>
+          <li>Adaptability</li>
+        </ul>
         <div class="advantage-grid">
           <article class="advantage-card">
             <h3>Read the room</h3>
@@ -185,50 +204,51 @@
       </div>
     </section>
 
-    <section id="vision" class="section section-vision" data-chapter="vision">
+    <section id="vision" class="section section-vision" data-chapter="vision" data-transition="rise">
       <div class="section-inner reveal">
-        <h2>First 180 days as SE Manager</h2>
+        <h2>First 180 days</h2>
+        <p class="section-sub">Day 0–180</p>
         <div class="plan-180">
           <article class="plan-phase">
-            <h4><span class="days">30</span> Listen</h4>
+            <h4><span class="days">0–30</span> Listen</h4>
             <ul>
               <li>Meet stakeholders + my team</li>
-              <li>Read what's in the ASE program today—materials, gaps</li>
-              <li>Line up sales shadows with real sellers</li>
+              <li>Audit ASE program materials—what's there, what's missing</li>
+              <li>Shadow when/where possible; visibility with key stakeholders</li>
               <li>Share what I'm hearing; ship 1–2 quick wins on ramp</li>
             </ul>
           </article>
           <article class="plan-phase">
-            <h4><span class="days">60</span> Build</h4>
+            <h4><span class="days">31–60</span> Build</h4>
             <ul>
               <li>Team mission + how we measure success</li>
               <li>Onboarding/coaching tied to CSAP milestones</li>
               <li>Pilot: Live AMA for ASEs</li>
-              <li>Update leadership—enablement tied to KPIs</li>
+              <li>Participate as sponsee and mentor; update leadership on KPIs</li>
             </ul>
           </article>
           <article class="plan-phase">
-            <h4><span class="days">90</span> Scale</h4>
+            <h4><span class="days">61–90</span> Scale</h4>
             <ul>
               <li>Roll onboarding across the cohort</li>
               <li>Dashboard: ramp time, shadows done, early customer touches</li>
-              <li>90-day review + draft the next 6 months</li>
+              <li>90-day review—adjust plan for days 91–180</li>
             </ul>
           </article>
           <article class="plan-phase">
-            <h4><span class="days">180</span> Prove it</h4>
+            <h4><span class="days">91–180</span> Prove it</h4>
             <ul>
-              <li>Run the 6-month dev plan—regular coaching, not one-offs</li>
+              <li>Run the dev plan—regular coaching, not one-offs</li>
               <li>Track who's customer-ready vs. who needs help</li>
               <li>Peer mentorship + real performance conversations</li>
-              <li>180-day review: metrics, wins, what to fix for the next class</li>
+              <li>Day-180 review: metrics, wins, what to fix for the next class</li>
             </ul>
           </article>
         </div>
       </div>
     </section>
 
-    <section id="today" class="section section-today" data-chapter="today">
+    <section id="today" class="section section-today" data-chapter="today" data-transition="shift">
       <div class="section-inner reveal">
         <h2>Right now — Renewals SE</h2>
         <p class="section-sub">Jan 2024 – present</p>
@@ -250,14 +270,13 @@
       </div>
     </section>
 
-    <section id="legacy" class="section section-legacy" data-chapter="legacy">
+    <section id="legacy" class="section section-legacy" data-chapter="legacy" data-transition="fade">
       <div class="section-inner reveal">
         <h2>Why I care</h2>
         <p class="legacy-text">Faith and family ground me. I want to leave teams and systems better than I found them—workflows that save time, onboarding that actually works, room for people to swap knowledge.</p>
         <p class="legacy-text">I mentor kids who look like I did. If they can see my path, maybe theirs feels possible.</p>
         <blockquote class="legacy-quote">
-          <p>Leverage authentic leadership, decision-making skills, and the ability to guide teams through the VUCA of Cisco to develop partners in their ability to deliver on the promise of workplace transformation based on Cisco Collaboration platforms and technologies.</p>
-          <cite>Dag Peak, Cisco</cite>
+          <p>I believe effective leadership is defined not only by delivering results, but by building high-performing teams capable of navigating change, strengthening relationships, and consistently executing against organizational goals.</p>
         </blockquote>
         <footer class="site-footer">
           <p class="name">Kenneth Onyebinachi Jr.</p>
