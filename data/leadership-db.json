@@ -11,7 +11,7 @@
     "legal_name": "Kenneth Onyebinachi Jr.",
     "headline": "SE Manager · Associate Solutions Engineer (ASE) Program",
     "linkedin_slug": "kenneth-onyebinachi-jr",
-    "summary": "Solutions Engineering leader with almost a decade across Cisco and Honeywell, applying for SE Manager over new Associate Solutions Engineers (ASEs). I graduated from the same CSAP program I would lead—ASE to Technical Solutions Specialist to Collaboration Renewals SE—with renewal rates raised from below 50% to over 70%. Brings Honeywell Scrum Master and Team Lead experience, CSM/CTPM credentials, and a track record of onboarding engineers domestically and internationally.",
+    "summary": "Applying for SE Manager over new ASEs. CSAP grad ('19)—same program I'd run. Honeywell scrum lead. Cisco: TSS four years, Renewals SE since '24. Collab renewals below 50% to 70%+. CSM, CTPM.",
     "education": [
       {
         "institution": "University of Alabama in Huntsville",
@@ -23,7 +23,7 @@
     "certifications": [
       { "name": "Certified Scrum Master (CSM)", "verified_via": "resume" },
       { "name": "Certified Technical Project Manager (CTPM)", "verified_via": "resume" },
-      { "name": "AI for Business Systems, Johns Hopkins University", "status": "in progress", "verified_via": "resume" }
+      { "name": "AI for Business Systems, Johns Hopkins University", "verified_via": "resume" }
     ],
     "current_title": {
       "value": "Collaboration Renewals Solutions Engineer",
@@ -46,34 +46,34 @@
     "title": "Systems Engineering Manager",
     "focus": "Associate Solutions Engineers (ASEs)",
     "program": "CSAP — Cisco Sales Associate Program",
-    "pitch": "Lead the cohort I came up through. I know the ramp, the pressure, and the path to results because I have walked it."
+    "pitch": "I ran CSAP as an ASE. I know the ramp. I want to manage the next cohort."
   },
   "ase_program_story": {
-    "headline": "From ASE graduate to ASE leader",
-    "narrative": "I entered Cisco through CSAP as an Associate Solutions Engineer (ASE) in 2019–2020—the same program I am ready to manage. That foundation led to four years as a Technical Solutions Specialist and my current role driving collaboration renewals. The arc proves the program works when leaders invest in ramp, shadowing, and enablement: I went from learning pre-sales fundamentals to raising renewal rates from below 50% to over 70%.",
+    "headline": "Same program. Different seat.",
+    "narrative": "CSAP ASE '19–'20 → TSS → Renewals SE. Collab renewals below 50% to 70%+. Honeywell team lead before that. I'm not guessing what new ASEs need—I lived it.",
     "program_to_results": [
       {
         "stage": "ASE (2019–2020)",
-        "outcome": "Built pre-sales fundamentals—discovery, demos, solution alignment—in the CSAP cohort model"
+        "outcome": "Discovery, demos, not freezing on customer calls"
       },
       {
-        "stage": "Technical Solutions Specialist (2020–2024)",
-        "outcome": "Scaled into technical enablement, customer architecture discussions, and roadmap influence"
+        "stage": "TSS (2020–2024)",
+        "outcome": "Enablement, customer architecture, roadmap input"
       },
       {
-        "stage": "Collaboration Renewals SE (2024–Present)",
-        "outcome": "Delivered measurable business results: renewal rates below 50% to over 70%; AI-powered team tooling"
+        "stage": "Renewals SE (2024–now)",
+        "outcome": "Below 50% → 70%+ renewals; AI tools for the team"
       },
       {
         "stage": "Honeywell (2017–2019)",
-        "outcome": "Prior people leadership—Scrum Master and Team Lead with domestic and international onboarding"
+        "outcome": "Scrum Master + team lead; US and international onboarding"
       }
     ],
     "why_manage_ases": [
-      "Lived the ASE journey—I can coach from experience, not theory",
-      "Honeywell team lead plus Cisco enablement background maps directly to ramping new engineers",
-      "Track record of building systems (automation, documentation, dashboards) that help teams deliver faster",
-      "Connector/Stimulator strengths fit cohort energy, confidence, and early customer readiness"
+      "Lived the ASE path—not theory",
+      "Already managed engineers at Honeywell",
+      "Built automation and docs that help teams move faster",
+      "Connector/Stimulator—good fit for nervous new cohorts"
     ]
   },
   "career_highlights": [
@@ -181,38 +181,38 @@
     "type": "se_manager_ase_cohort",
     "phases": {
       "30": {
-        "label": "Days 1–30 — Listen and learn",
+        "label": "Days 1–30 — Listen",
         "items": [
-          "Build relationships with stakeholders and teammates",
-          "Audit enablement assets and ASE program materials",
-          "Partner with sales teams to identify shadowing opportunities for the cohort",
-          "Share what I'm hearing and seeing, and deliver 1–2 quick wins for ASE ramp"
+          "Meet stakeholders and teammates",
+          "Audit ASE program materials—what's there, what's missing",
+          "Line up sales shadows with real sellers",
+          "Share what I'm hearing; ship 1–2 quick wins on ramp"
         ]
       },
       "60": {
-        "label": "Days 31–60 — Design and pilot",
+        "label": "Days 31–60 — Build",
         "items": [
-          "Define mission statement and value proposition for the ASE team",
-          "Design onboarding and coaching frameworks tailored to CSAP milestones",
-          "Design and launch a pilot (Live AMA for ASEs)",
-          "Strategy update deck linking cohort enablement to KPIs"
+          "Team mission and how we measure success",
+          "Onboarding/coaching tied to CSAP milestones",
+          "Pilot: Live AMA for ASEs",
+          "Leadership update—enablement tied to KPIs"
         ]
       },
       "90": {
-        "label": "Days 61–90 — Scale and measure",
+        "label": "Days 61–90 — Scale",
         "items": [
-          "Scale onboarding and continuous learning across the ASE cohort",
-          "Stand up enablement dashboard (ramp time, shadow completions, early customer engagement)",
-          "90-day impact review and draft 6–12 month development roadmap"
+          "Roll onboarding across the cohort",
+          "Dashboard: ramp time, shadows, early customer touches",
+          "90-day review; draft next 6 months"
         ]
       },
       "180": {
-        "label": "Days 91–180 — Deliver and sustain",
+        "label": "Days 91–180 — Prove it",
         "items": [
-          "Execute 6–12 month ASE development roadmap with structured coaching cadences",
-          "Measure cohort progress against program milestones and customer-readiness criteria",
-          "Formalize performance development conversations and peer mentorship loops",
-          "Present 180-day impact review with ramp metrics, wins, and recommendations for the next cohort"
+          "Run the 6-month dev plan—regular coaching",
+          "Track customer-readiness vs. who needs help",
+          "Peer mentorship + real performance conversations",
+          "180-day review: metrics, wins, fixes for next class"
         ]
       }
     },
@@ -241,8 +241,9 @@
     }
   },
   "narrative": {
-    "core_message": "Kenneth turns group energy into lasting outcomes—ASE program graduate ready to lead the next cohort, with Honeywell team-lead experience and Cisco results including renewal rates from below 50% to over 70%.",
-    "target_role": "Systems Engineering Manager — Associate Solutions Engineers (ASE)"
+    "core_message": "CSAP ASE grad ready to manage the next cohort. Honeywell team lead. Collab renewals below 50% to 70%+.",
+    "target_role": "SE Manager — ASE program",
+    "voice": "Terse, conversational, context-heavy. No framework labels on the public site."
   },
   "slides": {
     "3": {

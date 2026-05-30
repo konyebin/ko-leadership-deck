@@ -684,9 +684,15 @@ h3 {
   background: linear-gradient(180deg, var(--navy-light) 0%, var(--navy) 100%);
 }
 
+.certs-inline {
+  font-size: 0.9rem;
+  color: var(--gray-muted);
+  margin: 0.75rem 0 1rem;
+}
+
 .advantage-grid {
   display: grid;
-  grid-template-columns: repeat(auto-fit, minmax(240px, 1fr));
+  grid-template-columns: repeat(auto-fit, minmax(220px, 1fr));
   gap: 1.25rem;
   margin-bottom: 2rem;
 }
