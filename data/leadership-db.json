@@ -1,314 +1,374 @@
 {
- "meta": {
- "version": "2.1.0",
- "updated": "2026-05-21",
- "primary_source": "Kenneth_Onyebinachi_Resume_SE_Manager.docx",
- "secondary_source": "/Users/konyebin/Library/CloudStorage/OneDrive-Cisco/KOLeadershipDeck.pptx",
- "linkedin_url": "https://www.linkedin.com/in/kenneth-onyebinachi-jr/"
- },
- "person": {
- "display_name": "Kenneth Onyebinachi Jr.",
- "legal_name": "Kenneth Onyebinachi Jr.",
- "headline": "SE Manager · Associate Solutions Engineer (ASE) Program",
- "linkedin_slug": "kenneth-onyebinachi-jr",
- "summary": "Honeywell manager. CSAP ASE → Collab SE → Collaboration Renewals SE. Collab renewals below 50% to 70%+. CSM, CTPM, Johns Hopkins AI for Business Systems.",
- "education": [
- {
- "institution": "University of Alabama in Huntsville",
- "degree": "Bachelor of Science, Computer Engineering",
- "year": 2016,
- "verified_via": "resume"
- }
- ],
- "certifications": [
- { "name": "Certified Scrum Master (CSM)", "verified_via": "resume" },
- { "name": "Certified Technical Project Manager (CTPM)", "verified_via": "resume" },
- { "name": "AI for Business Systems, Johns Hopkins University", "status": "completed", "verified_via": "user" }
- ],
- "current_title": {
- "value": "Collaboration Renewals Solutions Engineer",
- "employer": "Cisco",
- "period": "Jan 2024 - Present",
- "verified_via": "resume"
- },
- "strengths_profile": {
- "primary": ["Connector", "Stimulator"],
- "verified_via": "deck_slide_4"
- },
- "portrait_asset": {
- "file": "assets/images/kenneth-bio.jpg",
- "source_slide": 4,
- "source_media": "image23.png",
- "usage_rule": "ONLY portrait outside motivators gallery. Motivator photos from deck slide 4 only."
- }
- },
- "target_role": {
- "title": "Systems Engineering Manager",
- "focus": "Associate Solutions Engineers (ASEs)",
- "program": "CSAP : Cisco Sales Associate Program",
- "pitch": "Know the ramp. Honeywell manager. Collab renewals below 50% to 70%+."
- },
- "ase_program_story": {
- "headline": "Where ASEs get stuck",
- "narrative": "CSAP ASE → Collab SE → Collaboration Renewals SE. Collab renewals below 50% to 70%+. Honeywell manager before that.",
- "program_to_results": [
- {
- "stage": "CSAP ASE",
- "outcome": "Discovery, demos, not freezing on customer calls"
- },
- {
- "stage": "Collab SE (2020-2024)",
- "outcome": "Collaboration Solutions Engineer: enabled sales and partners on Webex, calling, and meetings; helped customers design the right setup; brought field feedback to product and engineering"
- },
- {
- "stage": "Renewals SE (2024-now)",
- "outcome": "Below 50% → 70%+ renewals; AI tools for the team"
- },
- {
- "stage": "Honeywell (2017-2019)",
- "outcome": "Scrum Master + manager; US and international onboarding"
- }
- ],
- "why_manage_ases": [
- "Honeywell manager: sprints, onboarding, US + international",
- "Built automation and docs that help teams move faster",
- "Connector/Stimulator: read the room, keep energy up"
- ]
- },
- "career_highlights": [
- "Raised renewal rates on Cisco collaboration platforms from below 50% to over 70% by identifying adoption gaps, addressing technical blockers, and aligning architecture to business outcomes.",
- "CSAP ASE, then Collab SE and Collaboration Renewals SE.",
- "Led cross-functional engineering teams at Honeywell as Scrum Master and Manager: sprint cadence, backlog priorities, delivery planning, and performance development.",
- "Reduced test fixture setup time from 10 hours to 2 hours through Python-based automation (VM authentication, file versioning, cleanup).",
- "Designed and implemented AI-powered automation tools at Cisco for the Renewals SE team.",
- "Mentored and onboarded engineers domestically and internationally at Honeywell with structured retrospectives and feedback cycles."
- ],
- "career_path": [
- {
- "employer": "Cisco",
- "role": "Collaboration Renewals Solutions Engineer",
- "period": "Jan 2024 - Present",
- "achievements": [
- "Drive adoption of Cisco collaboration platforms with global sales teams and enterprise customers",
- "Raised renewal rates from below 50% to over 70%",
- "Partner 1:1 with Renewals Specialists on architecture aligned to customer strategic objectives",
- "Empower channel partners and RSs through technical enablement and joint customer engagement",
- "Designed AI-powered automation for analysis, reporting, and operational workflows"
- ],
- "verified_via": "resume"
- },
- {
- "employer": "Cisco",
- "role": "Collaboration Solutions Engineer (Collab SE)",
- "display_title": "Collaboration SE (Collab SE)",
- "resume_title": "Technical Solutions Specialist",
- "period": "Jan 2020 - Jan 2024",
- "achievements": [
- "Enabled sales teams and partners on Cisco collaboration: demos, designs, troubleshooting on Webex, calling, and meetings",
- "Helped customers map the right architecture and translated requirements into solution alignment",
- "Heard customer problems in the field and shared that feedback with product and engineering teams",
- "Built integration guidance, deployment documentation, and technical value narratives"
- ],
- "verified_via": "resume"
- },
- {
- "employer": "Cisco",
- "role": "CSAP : Associate Solutions Engineer (ASE)",
- "achievements": [
- "Discovery, demos, solution alignment",
- "Progressed to Collaboration Solutions Engineer (Collab SE)"
- ],
- "verified_via": "user_confirmed"
- },
- {
- "employer": "Honeywell",
- "role": "Scrum Master and Manager",
- "resume_title": "Scrum Master and Team Lead",
- "period": "Oct 2017 - Jan 2019",
- "achievements": [
- "Led cross-functional teams on firmware and embedded systems initiatives",
- "Owned sprint cadence, backlog priorities, and predictable delivery",
- "Mentored and onboarded engineers domestically and internationally",
- "Python automation reducing test fixture setup from 10 hours to 2 hours"
- ],
- "verified_via": "resume"
- }
- ],
- "metrics": [
- {
- "id": "renewal_rate",
- "value": "Below 50% → over 70%",
- "label": "Cisco collaboration platform renewal rates",
- "description": "Post-program career outcome: identifying adoption gaps, addressing technical blockers, and aligning architecture to business outcomes.",
- "verified_via": "resume"
- },
- {
- "id": "test_fixture_automation",
- "value": "10 hours → 2 hours",
- "label": "Test fixture setup time (Honeywell)",
- "verified_via": "resume"
- }
- ],
- "personal": {
- "about_me": "Connecting with others to put them in the best position to succeed. Remaining positive: there is always an opportunity to learn. Constantly growing by gleaning traits from others, applying them to myself, and giving back when there is a chance to teach.",
- "interests": ["Sports", "Technology", "Travel", "TV/Movies", "Anime"],
- "focus_areas": ["Learning technologies", "Networking", "Organizational intelligence"],
- "verified_via": "deck_slide_4"
- },
- "why_kenneth": {
- "title": "Why Kenneth?",
- "source_slide": 3,
- "pillars": [
- {
- "name": "Empathy",
- "text": "I went through this program myself, so I understand the pressure, uncertainty, and learning curve that comes with starting out. That experience helps me connect with and support early-career SEs in a genuine and relatable way."
- },
- {
- "name": "Experience",
- "text": "My background spans engineering, presales, customer engagement, automation, onboarding, and enablement. That broad experience allows me to help early-career SEs develop not just technical skills, but the communication, adaptability, and business mindset needed to succeed long term."
- },
- {
- "name": "Growth",
- "text": "I've grown from deeply technical roles into a strategic, customer-focused professional who understands business value, enablement, and leadership. That journey allows me to guide early-career SEs through both technical and professional growth."
- }
- ],
- "verified_via": "deck_slide_3"
- },
- "career_blueprint": {
- "title": "Career Blueprint Vision",
- "source_slide": 7,
- "pillars": ["Empathy", "Big Picture Mindset", "Creativity", "Authentic Leadership", "Adaptability"],
- "vision": "I am an outcomes-driven and collaborative leader who fosters transparency, accountability, and trust through open communication, empathy, and adaptability, while aligning teams around shared business objectives and customer success. My leadership approach focuses on solving complex problems, enabling cross-functional collaboration, and creating an environment where individuals feel empowered, supported, and motivated to perform at a high level.",
- "results": "Through a strong emphasis on customer adoption and strategic alignment between technical architecture and business outcomes, my team contributed to increasing renewal performance from below 50% to over 70% by identifying and closing adoption gaps, strengthening stakeholder engagement, and driving measurable operational impact.",
- "verified_via": "deck_slide_7"
- },
- "quotes": [
- {
- "id": "empathy_program",
- "text": "I went through this program myself, so I understand the pressure, uncertainty, and learning curve that comes with starting out.",
- "source_slide": 3,
- "usage": "hook_pull_quote"
- },
- {
- "id": "leadership_belief",
- "text": "I believe effective leadership is defined not only by delivering results, but by building high-performing teams capable of navigating change, strengthening relationships, and consistently executing against organizational goals.",
- "source_slide": 7,
- "usage": "legacy_close"
- }
- ],
- "leadership_principles": [
- { "name": "Empathy" },
- { "name": "Creativity" },
- { "name": "Trust" },
- { "name": "Meaningful" },
- { "name": "Accountability" },
- { "name": "Transparency" },
- { "name": "Authenticity" }
- ],
- "leadership_style": {
- "section_title": "How I Stand Out",
- "subtitle": "Building ASE cohorts with energy, clarity, and a path to customer impact",
- "archetypes": [
- { "name": "Energy Navigator", "description": "Innate sense of group energy; introduces the right spark at the right moment: critical for new ASE cohorts." },
- { "name": "Frontline Presence", "description": "Thrives with customers, employees, and partners: models the first impressions ASEs must learn." },
- { "name": "Atmosphere Builder", "description": "Tunes meetings, training, and enablement to capture and sustain energy." },
- { "name": "Momentum Driver", "description": "Translates energy into action, adoption, and lasting impact." }
- ],
- "verified_via": "deck_slide_8"
- },
- "plan_180_day": {
- "title": "First 180 days : before the cohort starts",
- "subtitle": "Day 0-180 · prep runway, no ASEs in seat yet",
- "type": "se_manager_pre_cohort",
- "range_note": "Prep window before CSAP/ASE cohort day 1. Day 0 through day 180.",
- "phases": {
- "0_30": {
- "label": "Days 0-30 : Listen",
- "items": [
- "Meet program owners, prior managers, sales leaders who'll host shadows",
- "Audit CSAP/ASE materials: what's current, what's missing",
- "Learn cohort timeline: hiring, start date, how many seats",
- "Shadow active SE teams: refresh what good looks like on calls"
- ]
- },
- "31_60": {
- "label": "Days 31-60 : Build",
- "items": [
- "Draft week-by-week onboarding for day 1 of the program",
- "Coaching rubric tied to CSAP milestones",
- "Lock shadow roster with sellers before anyone arrives",
- "Pilot AMA format with other Collab SEs as a stand-in audience"
- ]
- },
- "61_90": {
- "label": "Days 61-90 : Lock in",
- "items": [
- "Dry-run onboarding; fix materials from feedback",
- "Dashboard spec: what to track from cohort day 1",
- "Mentor/sponsee matches lined up before start",
- "Leadership sign-off on KPIs and success metrics"
- ]
- },
- "91_180": {
- "label": "Days 91-180 : Ready at go-live",
- "items": [
- "Final material pass; handoff docs if out",
- "Pre-start sync with stakeholders on expectations",
- "Runbook for the cohort's first 30 days once they're here",
- "Day-180 checkpoint: ready or not for cohort start"
- ]
- }
- },
- "verified_via": "user_confirmed"
- },
- "today": {
- "role": "Collaboration Renewals Solutions Engineer",
- "employer": "Cisco",
- "period": "Jan 2024 - Present",
- "responsibilities": [
- "Drive adoption and reduce renewal risk with global sales and enterprise customers",
- "Partner with Renewals Specialists on collaboration and software architectures",
- "Enable channel partners through technical enablement and GTM alignment",
- "Build AI-powered automation for team analysis, reporting, and workflows"
- ],
- "stakeholders": ["Kristin Gioberto", "Ayanna John", "Temi Ajasa", "John Centamore"],
- "stakeholders_note": "From portfolio deck; confirm current names for interview",
- "verified_via": "resume_and_deck"
- },
- "legacy": {
- "narrative": "Faith and family at the core; meaningful impact; systems that empower others; mentoring youth from similar backgrounds.",
- "closing_quote": {
- "text": "I believe effective leadership is defined not only by delivering results, but by building high-performing teams capable of navigating change, strengthening relationships, and consistently executing against organizational goals.",
- "source_slide": 7,
- "verified_via": "deck_slide_7"
- }
- },
- "narrative": {
- "core_message": "Know where ASEs get stuck. Honeywell manager. Collab renewals below 50% to 70%+.",
- "target_role": "SE Manager : ASE program",
- "voice": "Terse, conversational, context-heavy. No framework labels on the public site."
- },
- "slides": {
- "3": {
- "title": "Why Kenneth?",
- "verified_via": "KOLeadershipDeck.pptx"
- },
- "4": {
- "title": "Personal Interests / Motivators",
- "motivator_assets": [
- "assets/images/motivators/motivator-11.jpg",
- "assets/images/motivators/motivator-14.jpg",
- "assets/images/motivators/motivator-16.jpg",
- "assets/images/motivators/motivator-18.jpg",
- "assets/images/motivators/motivator-20.jpg",
- "assets/images/motivators/motivator-21.jpg",
- "assets/images/motivators/motivator-22.jpg",
- "assets/images/motivators/motivator-12.jpg"
- ]
- },
- "7": {
- "title": "Career Blueprint Vision",
- "verified_via": "KOLeadershipDeck.pptx"
- }
- }
+  "meta": {
+    "version": "2.1.0",
+    "updated": "2026-05-21",
+    "primary_source": "Kenneth_Onyebinachi_Resume_SE_Manager.docx",
+    "secondary_source": "/Users/konyebin/Library/CloudStorage/OneDrive-Cisco/KOLeadershipDeck.pptx",
+    "linkedin_url": "https://www.linkedin.com/in/kenneth-onyebinachi-jr/"
+  },
+  "person": {
+    "display_name": "Kenneth Onyebinachi Jr.",
+    "legal_name": "Kenneth Onyebinachi Jr.",
+    "headline": "SE Manager · Associate Solutions Engineer (ASE) Program",
+    "linkedin_slug": "kenneth-onyebinachi-jr",
+    "summary": "Honeywell manager. CSAP ASE → Collab SE → Collaboration Renewals SE. Collab renewals below 50% to 70%+. CSM, CTPM, Johns Hopkins AI for Business Systems.",
+    "education": [
+      {
+        "institution": "University of Alabama in Huntsville",
+        "degree": "Bachelor of Science, Computer Engineering",
+        "year": 2016,
+        "verified_via": "resume"
+      }
+    ],
+    "certifications": [
+      {
+        "name": "Certified Scrum Master (CSM)",
+        "verified_via": "resume"
+      },
+      {
+        "name": "Certified Technical Project Manager (CTPM)",
+        "verified_via": "resume"
+      },
+      {
+        "name": "AI for Business Systems, Johns Hopkins University",
+        "status": "completed",
+        "verified_via": "user"
+      }
+    ],
+    "current_title": {
+      "value": "Collaboration Renewals Solutions Engineer",
+      "employer": "Cisco",
+      "period": "Jan 2024 - Present",
+      "verified_via": "resume"
+    },
+    "strengths_profile": {
+      "primary": [
+        "Connector",
+        "Stimulator"
+      ],
+      "verified_via": "deck_slide_4"
+    },
+    "portrait_asset": {
+      "file": "assets/images/kenneth-bio.jpg",
+      "source_slide": 4,
+      "source_media": "image23.png",
+      "usage_rule": "ONLY portrait outside motivators gallery. Motivator photos from deck slide 4 only."
+    }
+  },
+  "target_role": {
+    "title": "Systems Engineering Manager",
+    "focus": "Associate Solutions Engineers (ASEs)",
+    "program": "CSAP - Cisco Sales Associate Program",
+    "pitch": "Know the ramp. Honeywell manager. Collab renewals below 50% to 70%+."
+  },
+  "ase_program_story": {
+    "headline": "Where ASEs get stuck",
+    "narrative": "CSAP ASE → Collab SE → Collaboration Renewals SE. Collab renewals below 50% to 70%+. Honeywell manager before that.",
+    "program_to_results": [
+      {
+        "stage": "CSAP ASE",
+        "outcome": "Discovery, demos, not freezing on customer calls"
+      },
+      {
+        "stage": "Collab SE (2020-2024)",
+        "outcome": "Collaboration Solutions Engineer: enabled sales and partners on Webex, calling, and meetings; helped customers design the right setup; brought field feedback to product and engineering"
+      },
+      {
+        "stage": "Renewals SE (2024-now)",
+        "outcome": "Below 50% → 70%+ renewals; AI tools for the team"
+      },
+      {
+        "stage": "Honeywell (2017-2019)",
+        "outcome": "Scrum Master + manager; US and international onboarding"
+      }
+    ],
+    "why_manage_ases": [
+      "Honeywell manager: sprints, onboarding, US + international",
+      "Built automation and docs that help teams move faster",
+      "Connector/Stimulator: read the room, keep energy up"
+    ]
+  },
+  "career_highlights": [
+    "Raised renewal rates on Cisco collaboration platforms from below 50% to over 70% by identifying adoption gaps, addressing technical blockers, and aligning architecture to business outcomes.",
+    "CSAP ASE, then Collab SE and Collaboration Renewals SE.",
+    "Led cross-functional engineering teams at Honeywell as Scrum Master and Manager: sprint cadence, backlog priorities, delivery planning, and performance development.",
+    "Reduced test fixture setup time from 10 hours to 2 hours through Python-based automation (VM authentication, file versioning, cleanup).",
+    "Designed and implemented AI-powered automation tools at Cisco for the Renewals SE team.",
+    "Mentored and onboarded engineers domestically and internationally at Honeywell with structured retrospectives and feedback cycles."
+  ],
+  "career_path": [
+    {
+      "employer": "Cisco",
+      "role": "Collaboration Renewals Solutions Engineer",
+      "period": "Jan 2024 - Present",
+      "achievements": [
+        "Drive adoption of Cisco collaboration platforms with global sales teams and enterprise customers",
+        "Raised renewal rates from below 50% to over 70%",
+        "Partner 1:1 with Renewals Specialists on architecture aligned to customer strategic objectives",
+        "Empower channel partners and RSs through technical enablement and joint customer engagement",
+        "Designed AI-powered automation for analysis, reporting, and operational workflows"
+      ],
+      "verified_via": "resume"
+    },
+    {
+      "employer": "Cisco",
+      "role": "Collaboration Solutions Engineer (Collab SE)",
+      "display_title": "Collaboration SE (Collab SE)",
+      "resume_title": "Technical Solutions Specialist",
+      "period": "Jan 2020 - Jan 2024",
+      "achievements": [
+        "Enabled sales teams and partners on Cisco collaboration: demos, designs, troubleshooting on Webex, calling, and meetings",
+        "Helped customers map the right architecture and translated requirements into solution alignment",
+        "Heard customer problems in the field and shared that feedback with product and engineering teams",
+        "Built integration guidance, deployment documentation, and technical value narratives"
+      ],
+      "verified_via": "resume"
+    },
+    {
+      "employer": "Cisco",
+      "role": "CSAP - Associate Solutions Engineer (ASE)",
+      "achievements": [
+        "Discovery, demos, solution alignment",
+        "Progressed to Collaboration Solutions Engineer (Collab SE)"
+      ],
+      "verified_via": "user_confirmed"
+    },
+    {
+      "employer": "Honeywell",
+      "role": "Scrum Master and Manager",
+      "resume_title": "Scrum Master and Team Lead",
+      "period": "Oct 2017 - Jan 2019",
+      "achievements": [
+        "Led cross-functional teams on firmware and embedded systems initiatives",
+        "Owned sprint cadence, backlog priorities, and predictable delivery",
+        "Mentored and onboarded engineers domestically and internationally",
+        "Python automation reducing test fixture setup from 10 hours to 2 hours"
+      ],
+      "verified_via": "resume"
+    }
+  ],
+  "metrics": [
+    {
+      "id": "renewal_rate",
+      "value": "Below 50% → over 70%",
+      "label": "Cisco collaboration platform renewal rates",
+      "description": "Post-program career outcome: identifying adoption gaps, addressing technical blockers, and aligning architecture to business outcomes.",
+      "verified_via": "resume"
+    },
+    {
+      "id": "test_fixture_automation",
+      "value": "10 hours → 2 hours",
+      "label": "Test fixture setup time (Honeywell)",
+      "verified_via": "resume"
+    }
+  ],
+  "personal": {
+    "about_me": "Connecting with others to put them in the best position to succeed. Remaining positive: there is always an opportunity to learn. Constantly growing by gleaning traits from others, applying them to myself, and giving back when there is a chance to teach.",
+    "interests": [
+      "Sports",
+      "Technology",
+      "Travel",
+      "TV/Movies",
+      "Anime"
+    ],
+    "focus_areas": [
+      "Learning technologies",
+      "Networking",
+      "Organizational intelligence"
+    ],
+    "verified_via": "deck_slide_4"
+  },
+  "why_kenneth": {
+    "title": "Why Kenneth?",
+    "source_slide": 3,
+    "pillars": [
+      {
+        "name": "Empathy",
+        "text": "I went through this program myself, so I understand the pressure, uncertainty, and learning curve that comes with starting out. That experience helps me connect with and support early-career SEs in a genuine and relatable way."
+      },
+      {
+        "name": "Experience",
+        "text": "My background spans engineering, presales, customer engagement, automation, onboarding, and enablement. That broad experience allows me to help early-career SEs develop not just technical skills, but the communication, adaptability, and business mindset needed to succeed long term."
+      },
+      {
+        "name": "Growth",
+        "text": "I've grown from deeply technical roles into a strategic, customer-focused professional who understands business value, enablement, and leadership. That journey allows me to guide early-career SEs through both technical and professional growth."
+      }
+    ],
+    "verified_via": "deck_slide_3"
+  },
+  "career_blueprint": {
+    "title": "Career Blueprint Vision",
+    "source_slide": 7,
+    "pillars": [
+      "Empathy",
+      "Big Picture Mindset",
+      "Creativity",
+      "Authentic Leadership",
+      "Adaptability"
+    ],
+    "vision": "I am an outcomes-driven and collaborative leader who fosters transparency, accountability, and trust through open communication, empathy, and adaptability, while aligning teams around shared business objectives and customer success. My leadership approach focuses on solving complex problems, enabling cross-functional collaboration, and creating an environment where individuals feel empowered, supported, and motivated to perform at a high level.",
+    "results": "Through a strong emphasis on customer adoption and strategic alignment between technical architecture and business outcomes, my team contributed to increasing renewal performance from below 50% to over 70% by identifying and closing adoption gaps, strengthening stakeholder engagement, and driving measurable operational impact.",
+    "verified_via": "deck_slide_7"
+  },
+  "quotes": [
+    {
+      "id": "empathy_program",
+      "text": "I went through this program myself, so I understand the pressure, uncertainty, and learning curve that comes with starting out.",
+      "source_slide": 3,
+      "usage": "hook_pull_quote"
+    },
+    {
+      "id": "leadership_belief",
+      "text": "I believe effective leadership is defined not only by delivering results, but by building high-performing teams capable of navigating change, strengthening relationships, and consistently executing against organizational goals.",
+      "source_slide": 7,
+      "usage": "legacy_close"
+    }
+  ],
+  "leadership_principles": [
+    {
+      "name": "Empathy"
+    },
+    {
+      "name": "Creativity"
+    },
+    {
+      "name": "Trust"
+    },
+    {
+      "name": "Meaningful"
+    },
+    {
+      "name": "Accountability"
+    },
+    {
+      "name": "Transparency"
+    },
+    {
+      "name": "Authenticity"
+    }
+  ],
+  "leadership_style": {
+    "section_title": "How I Stand Out",
+    "subtitle": "Building ASE cohorts with energy, clarity, and a path to customer impact",
+    "archetypes": [
+      {
+        "name": "Energy Navigator",
+        "description": "Innate sense of group energy; introduces the right spark at the right moment: critical for new ASE cohorts."
+      },
+      {
+        "name": "Frontline Presence",
+        "description": "Thrives with customers, employees, and partners: models the first impressions ASEs must learn."
+      },
+      {
+        "name": "Atmosphere Builder",
+        "description": "Tunes meetings, training, and enablement to capture and sustain energy."
+      },
+      {
+        "name": "Momentum Driver",
+        "description": "Translates energy into action, adoption, and lasting impact."
+      }
+    ],
+    "verified_via": "deck_slide_8"
+  },
+  "plan_180_day": {
+    "title": "First 180 days before the cohort starts",
+    "subtitle": "Day 0-180 · prep runway, no ASEs in seat yet",
+    "type": "se_manager_pre_cohort",
+    "range_note": "Prep window before CSAP/ASE cohort day 1. Day 0 through day 180.",
+    "phases": {
+      "0_30": {
+        "label": "Days 0-30, Listen",
+        "items": [
+          "Meet program owners, prior managers, sales leaders who'll host shadows",
+          "Audit CSAP/ASE materials: what's current, what's missing",
+          "Learn cohort timeline: hiring, start date, how many seats",
+          "Shadow active SE teams: refresh what good looks like on calls"
+        ]
+      },
+      "31_60": {
+        "label": "Days 31-60, Build",
+        "items": [
+          "Draft week-by-week onboarding for day 1 of the program",
+          "Coaching rubric tied to CSAP milestones",
+          "Lock shadow roster with sellers before anyone arrives",
+          "Pilot AMA format with other Collab SEs as a stand-in audience"
+        ]
+      },
+      "61_90": {
+        "label": "Days 61-90, Lock in",
+        "items": [
+          "Dry-run onboarding; fix materials from feedback",
+          "Dashboard spec: what to track from cohort day 1",
+          "Mentor/sponsee matches lined up before start",
+          "Leadership sign-off on KPIs and success metrics"
+        ]
+      },
+      "91_180": {
+        "label": "Days 91-180, Ready at go-live",
+        "items": [
+          "Final material pass; handoff docs if out",
+          "Pre-start sync with stakeholders on expectations",
+          "Runbook for the cohort's first 30 days once they're here",
+          "Day-180 checkpoint: ready or not for cohort start"
+        ]
+      }
+    },
+    "verified_via": "user_confirmed"
+  },
+  "today": {
+    "role": "Collaboration Renewals Solutions Engineer",
+    "employer": "Cisco",
+    "period": "Jan 2024 - Present",
+    "responsibilities": [
+      "Drive adoption and reduce renewal risk with global sales and enterprise customers",
+      "Partner with Renewals Specialists on collaboration and software architectures",
+      "Enable channel partners through technical enablement and GTM alignment",
+      "Build AI-powered automation for team analysis, reporting, and workflows"
+    ],
+    "stakeholders": [
+      "Kristin Gioberto",
+      "Ayanna John",
+      "Temi Ajasa",
+      "John Centamore"
+    ],
+    "stakeholders_note": "From portfolio deck; confirm current names for interview",
+    "verified_via": "resume_and_deck"
+  },
+  "legacy": {
+    "narrative": "Faith and family at the core; meaningful impact; systems that empower others; mentoring youth from similar backgrounds.",
+    "closing_quote": {
+      "text": "I believe effective leadership is defined not only by delivering results, but by building high-performing teams capable of navigating change, strengthening relationships, and consistently executing against organizational goals.",
+      "source_slide": 7,
+      "verified_via": "deck_slide_7"
+    }
+  },
+  "narrative": {
+    "core_message": "Know where ASEs get stuck. Honeywell manager. Collab renewals below 50% to 70%+.",
+    "target_role": "SE Manager, ASE program",
+    "voice": "Terse, conversational, context-heavy. No framework labels on the public site."
+  },
+  "slides": {
+    "3": {
+      "title": "Why Kenneth?",
+      "verified_via": "KOLeadershipDeck.pptx"
+    },
+    "4": {
+      "title": "Personal Interests / Motivators",
+      "motivator_assets": [
+        "assets/images/motivators/motivator-11.jpg",
+        "assets/images/motivators/motivator-14.jpg",
+        "assets/images/motivators/motivator-16.jpg",
+        "assets/images/motivators/motivator-18.jpg",
+        "assets/images/motivators/motivator-20.jpg",
+        "assets/images/motivators/motivator-21.jpg",
+        "assets/images/motivators/motivator-22.jpg",
+        "assets/images/motivators/motivator-12.jpg"
+      ]
+    },
+    "7": {
+      "title": "Career Blueprint Vision",
+      "verified_via": "KOLeadershipDeck.pptx"
+    }
+  }
 }
