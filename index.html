@@ -13,13 +13,6 @@
 <body>
   <a class="skip-link" href="#hook">Skip to story</a>
 
-  <div class="scene-chrome" aria-hidden="true">
-    <span class="scene-current">01</span>
-    <span class="scene-sep">/</span>
-    <span class="scene-total">08</span>
-  </div>
-  <p class="scene-hint" aria-hidden="true">Scroll or ↓</p>
-
   <nav class="chapter-nav" aria-label="Sections">
     <ol>
       <li><a href="#hero" data-section="hero"><span class="dot"></span><span class="label">Start</span></a></li>
@@ -34,8 +27,8 @@
     <div class="progress-bar" aria-hidden="true"><span class="progress-fill"></span></div>
   </nav>
 
-  <main id="main" class="scene-stage">
-    <section id="hero" class="section section-hero" data-chapter="hero" data-transition="fade">
+  <main id="main">
+    <section id="hero" class="section section-hero" data-chapter="hero">
       <div class="hero-bg" role="presentation"></div>
       <div class="section-inner reveal">
         <h1>I know where ASEs get stuck.</h1>
@@ -49,11 +42,11 @@
             <a href="https://www.linkedin.com/in/kenneth-onyebinachi-jr/" class="linkedin-link" target="_blank" rel="noopener noreferrer">LinkedIn</a>
           </div>
         </div>
-        <button type="button" class="scroll-cue scene-advance" data-scene-next aria-label="Next scene">Keep going ↓</button>
+        <a href="#hook" class="scroll-cue" aria-label="Keep reading">Keep reading ↓</a>
       </div>
     </section>
 
-    <section id="hook" class="section section-hook" data-chapter="hook" data-transition="rise">
+    <section id="hook" class="section section-hook" data-chapter="hook">
       <div class="section-inner reveal">
         <h2>The ramp, shadows, first customer calls.</h2>
         <p class="lead">CSAP ASE '19–'20 → four years TSS → Renewals SE since Jan '24. At Honeywell I ran a team—sprints, onboarding, engineers in the US and overseas.</p>
@@ -69,7 +62,7 @@
       </div>
     </section>
 
-    <section id="who" class="section section-who" data-chapter="who" data-transition="clip">
+    <section id="who" class="section section-who" data-chapter="who">
       <div class="section-inner reveal">
         <h2>Who I am</h2>
         <div class="who-grid">
@@ -119,7 +112,7 @@
       </div>
     </section>
 
-    <section id="proof" class="section section-proof" data-chapter="proof" data-transition="shift">
+    <section id="proof" class="section section-proof" data-chapter="proof">
       <div class="section-inner reveal">
         <h2>Proof</h2>
         <div class="stats-row">
@@ -176,7 +169,7 @@
       </div>
     </section>
 
-    <section id="lead" class="section section-lead" data-chapter="lead" data-transition="blur">
+    <section id="lead" class="section section-lead" data-chapter="lead">
       <div class="section-inner reveal">
         <h2>How I lead</h2>
         <p class="career-blueprint">I'm an outcomes-driven, collaborative leader—transparency, accountability, trust, open communication, empathy, adaptability. I align teams on business objectives and customer success, solve complex problems, and create an environment where people feel empowered and motivated. Renewal performance from below 50% to over 70% came from closing adoption gaps and strengthening stakeholder engagement—not slide decks alone.</p>
@@ -204,51 +197,52 @@
       </div>
     </section>
 
-    <section id="vision" class="section section-vision" data-chapter="vision" data-transition="rise">
+    <section id="vision" class="section section-vision" data-chapter="vision">
       <div class="section-inner reveal">
-        <h2>First 180 days</h2>
-        <p class="section-sub">Day 0–180</p>
+        <h2>First 180 days — before the cohort starts</h2>
+        <p class="section-sub">Day 0–180 · prep runway, no ASEs in seat yet</p>
         <div class="plan-180">
           <article class="plan-phase">
             <h4><span class="days">0–30</span> Listen</h4>
             <ul>
-              <li>Meet stakeholders + my team</li>
-              <li>Audit ASE program materials—what's there, what's missing</li>
-              <li>Shadow when/where possible; visibility with key stakeholders</li>
-              <li>Share what I'm hearing; ship 1–2 quick wins on ramp</li>
+              <li>Meet program owners, prior managers, sales leaders who'll host shadows</li>
+              <li>Audit CSAP/ASE materials—what's current, what's missing</li>
+              <li>Learn cohort timeline: hiring, start date, how many seats</li>
+              <li>Shadow active SE teams—refresh what good looks like on calls</li>
             </ul>
           </article>
           <article class="plan-phase">
             <h4><span class="days">31–60</span> Build</h4>
             <ul>
-              <li>Team mission + how we measure success</li>
-              <li>Onboarding/coaching tied to CSAP milestones</li>
-              <li>Pilot: Live AMA for ASEs</li>
-              <li>Participate as sponsee and mentor; update leadership on KPIs</li>
+              <li>Draft week-by-week onboarding for day 1 of the program</li>
+              <li>Coaching rubric tied to CSAP milestones</li>
+              <li>Lock shadow roster with sellers before anyone arrives</li>
+              <li>Pilot AMA format with TSS peers as stand-in audience</li>
             </ul>
           </article>
           <article class="plan-phase">
-            <h4><span class="days">61–90</span> Scale</h4>
+            <h4><span class="days">61–90</span> Lock in</h4>
             <ul>
-              <li>Roll onboarding across the cohort</li>
-              <li>Dashboard: ramp time, shadows done, early customer touches</li>
-              <li>90-day review—adjust plan for days 91–180</li>
+              <li>Dry-run onboarding; fix materials from feedback</li>
+              <li>Dashboard spec—what I'll track from cohort day 1</li>
+              <li>Mentor/sponsee matches lined up before start</li>
+              <li>Leadership sign-off on KPIs and success metrics</li>
             </ul>
           </article>
           <article class="plan-phase">
-            <h4><span class="days">91–180</span> Prove it</h4>
+            <h4><span class="days">91–180</span> Ready at go-live</h4>
             <ul>
-              <li>Run the dev plan—regular coaching, not one-offs</li>
-              <li>Track who's customer-ready vs. who needs help</li>
-              <li>Peer mentorship + real performance conversations</li>
-              <li>Day-180 review: metrics, wins, what to fix for the next class</li>
+              <li>Final material pass; handoff docs if I'm out</li>
+              <li>Pre-start sync with stakeholders on expectations</li>
+              <li>Runbook for the cohort's first 30 days once they're here</li>
+              <li>Day-180 checkpoint: ready or not for cohort start</li>
             </ul>
           </article>
         </div>
       </div>
     </section>
 
-    <section id="today" class="section section-today" data-chapter="today" data-transition="shift">
+    <section id="today" class="section section-today" data-chapter="today">
       <div class="section-inner reveal">
         <h2>Right now — Renewals SE</h2>
         <p class="section-sub">Jan 2024 – present</p>
@@ -270,7 +264,7 @@
       </div>
     </section>
 
-    <section id="legacy" class="section section-legacy" data-chapter="legacy" data-transition="fade">
+    <section id="legacy" class="section section-legacy" data-chapter="legacy">
       <div class="section-inner reveal">
         <h2>Why I care</h2>
         <p class="legacy-text">Faith and family ground me. I want to leave teams and systems better than I found them—workflows that save time, onboarding that actually works, room for people to swap knowledge.</p>
