@@ -11,7 +11,7 @@
     "legal_name": "Kenneth Onyebinachi Jr.",
     "headline": "SE Manager · Associate Solutions Engineer (ASE) Program",
     "linkedin_slug": "kenneth-onyebinachi-jr",
-    "summary": "Honeywell scrum lead. CSAP ASE '19–'20 → TSS → Renewals SE. Collab renewals below 50% to 70%+. CSM, CTPM, Johns Hopkins AI for Business Systems.",
+    "summary": "Honeywell scrum lead. CSAP ASE → TSS → Renewals SE. Collab renewals below 50% to 70%+. CSM, CTPM, Johns Hopkins AI for Business Systems.",
     "education": [
       {
         "institution": "University of Alabama in Huntsville",
@@ -50,10 +50,10 @@
   },
   "ase_program_story": {
     "headline": "Where ASEs get stuck",
-    "narrative": "CSAP ASE '19–'20 → TSS → Renewals SE. Collab renewals below 50% to 70%+. Honeywell team lead before that.",
+    "narrative": "CSAP ASE → TSS → Renewals SE. Collab renewals below 50% to 70%+. Honeywell team lead before that.",
     "program_to_results": [
       {
-        "stage": "ASE (2019–2020)",
+        "stage": "CSAP ASE",
         "outcome": "Discovery, demos, not freezing on customer calls"
       },
       {
@@ -77,7 +77,7 @@
   },
   "career_highlights": [
     "Raised renewal rates on Cisco collaboration platforms from below 50% to over 70% by identifying adoption gaps, addressing technical blockers, and aligning architecture to business outcomes.",
-    "CSAP ASE (2019–2020), then TSS and Renewals SE.",
+    "CSAP ASE, then TSS and Renewals SE.",
     "Led cross-functional engineering teams at Honeywell as Scrum Master and Team Lead—sprint cadence, backlog priorities, delivery planning, and performance development.",
     "Reduced test fixture setup time from 10 hours to 2 hours through Python-based automation (VM authentication, file versioning, cleanup).",
     "Designed and implemented AI-powered automation tools at Cisco for the Renewals SE team.",
@@ -112,7 +112,6 @@
     {
       "employer": "Cisco",
       "role": "CSAP — Associate Solutions Engineer (ASE)",
-      "period": "2019 – 2020",
       "achievements": [
         "Discovery, demos, solution alignment",
         "Progressed to Technical Solutions Specialist"
