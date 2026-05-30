@@ -793,10 +793,11 @@ h3 {
   font-size: 1.1rem;
 }
 
-.plan-306090 {
+.plan-306090,
+.plan-180 {
   display: grid;
-  grid-template-columns: repeat(auto-fit, minmax(260px, 1fr));
-  gap: 1.5rem;
+  grid-template-columns: repeat(auto-fit, minmax(240px, 1fr));
+  gap: 1.25rem;
   margin: 2rem 0;
 }
 
@@ -810,9 +811,31 @@ h3 {
 .plan-phase .days {
   display: inline-block;
   font-family: var(--font-display);
-  font-size: 2rem;
+  font-size: 1.75rem;
   color: var(--orange);
   margin-right: 0.35rem;
+}
+
+.program-arc {
+  margin: 0 0 2rem;
+  padding: 1.25rem 1.5rem;
+  background: rgba(21, 96, 130, 0.15);
+  border-radius: 10px;
+  border-left: 4px solid var(--teal-bright);
+}
+
+.arc-steps {
+  margin: 0.75rem 0 0;
+  padding-left: 1.25rem;
+}
+
+.arc-steps li {
+  margin-bottom: 0.5rem;
+}
+
+.journey-card-highlight {
+  border-color: var(--teal);
+  background: rgba(21, 96, 130, 0.12);
 }
 
 .plan-phase ul {

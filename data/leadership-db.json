@@ -1,7 +1,7 @@
 {
   "meta": {
-    "version": "2.0.0",
-    "updated": "2026-05-21",
+    "version": "2.1.0",
+    "updated": "2026-05-22",
     "primary_source": "Kenneth_Onyebinachi_Resume_SE_Manager.docx",
     "secondary_source": "KOLeadershipDeck.pptx",
     "linkedin_url": "https://www.linkedin.com/in/kenneth-onyebinachi-jr/"
@@ -9,9 +9,9 @@
   "person": {
     "display_name": "Kenneth Onyebinachi Jr.",
     "legal_name": "Kenneth Onyebinachi Jr.",
-    "headline": "Manager, Systems Engineering | Solutions Engineering Leader | Pre-Sales Team Builder",
+    "headline": "SE Manager · Associate Solutions Engineer (ASE) Program",
     "linkedin_slug": "kenneth-onyebinachi-jr",
-    "summary": "Solutions Engineering professional with 8+ years across Cisco, Honeywell, and enterprise technology, ready to step into people leadership as a Manager of Systems or Solutions Engineering. Combines current pre-sales depth with prior people-management experience and measurable customer outcomes.",
+    "summary": "Solutions Engineering leader with almost a decade across Cisco and Honeywell, applying for SE Manager over new Associate Solutions Engineers (ASEs). I graduated from the same CSAP program I would lead—ASE to Technical Solutions Specialist to Collaboration Renewals SE—with renewal rates raised from below 50% to over 70%. Brings Honeywell Scrum Master and Team Lead experience, CSM/CTPM credentials, and a track record of onboarding engineers domestically and internationally.",
     "education": [
       {
         "institution": "University of Alabama in Huntsville",
@@ -42,8 +42,43 @@
       "usage_rule": "ONLY portrait outside motivators gallery. Slide 3 images only in Personal Interests section."
     }
   },
+  "target_role": {
+    "title": "Systems Engineering Manager",
+    "focus": "Associate Solutions Engineers (ASEs)",
+    "program": "CSAP — Cisco Sales Associate Program",
+    "pitch": "Lead the cohort I came up through. I know the ramp, the pressure, and the path to results because I have walked it."
+  },
+  "ase_program_story": {
+    "headline": "From ASE graduate to ASE leader",
+    "narrative": "I entered Cisco through CSAP as an Associate Solutions Engineer (ASE) in 2019–2020—the same program I am ready to manage. That foundation led to four years as a Technical Solutions Specialist and my current role driving collaboration renewals. The arc proves the program works when leaders invest in ramp, shadowing, and enablement: I went from learning pre-sales fundamentals to raising renewal rates from below 50% to over 70%.",
+    "program_to_results": [
+      {
+        "stage": "ASE (2019–2020)",
+        "outcome": "Built pre-sales fundamentals—discovery, demos, solution alignment—in the CSAP cohort model"
+      },
+      {
+        "stage": "Technical Solutions Specialist (2020–2024)",
+        "outcome": "Scaled into technical enablement, customer architecture discussions, and roadmap influence"
+      },
+      {
+        "stage": "Collaboration Renewals SE (2024–Present)",
+        "outcome": "Delivered measurable business results: renewal rates below 50% to over 70%; AI-powered team tooling"
+      },
+      {
+        "stage": "Honeywell (2017–2019)",
+        "outcome": "Prior people leadership—Scrum Master and Team Lead with domestic and international onboarding"
+      }
+    ],
+    "why_manage_ases": [
+      "Lived the ASE journey—I can coach from experience, not theory",
+      "Honeywell team lead plus Cisco enablement background maps directly to ramping new engineers",
+      "Track record of building systems (automation, documentation, dashboards) that help teams deliver faster",
+      "Connector/Stimulator strengths fit cohort energy, confidence, and early customer readiness"
+    ]
+  },
   "career_highlights": [
     "Raised renewal rates on Cisco collaboration platforms from below 50% to over 70% by identifying adoption gaps, addressing technical blockers, and aligning architecture to business outcomes.",
+    "Graduated CSAP as an ASE (2019–2020) and progressed to TSS and Renewals SE—proof of the program path I would steward as manager.",
     "Led cross-functional engineering teams at Honeywell as Scrum Master and Team Lead—sprint cadence, backlog priorities, delivery planning, and performance development.",
     "Reduced test fixture setup time from 10 hours to 2 hours through Python-based automation (VM authentication, file versioning, cleanup).",
     "Designed and implemented AI-powered automation tools at Cisco for the Renewals SE team.",
@@ -59,32 +94,32 @@
         "Raised renewal rates from below 50% to over 70%",
         "Partner 1:1 with Renewals Specialists on architecture aligned to customer strategic objectives",
         "Empower channel partners and RSs through technical enablement and joint customer engagement",
-        "Evaluate environments for misalignment, underutilized capabilities, and renewal risk",
-        "Lead cross-functional coordination across sales, engineering, partners, and customers",
         "Designed AI-powered automation for analysis, reporting, and operational workflows"
       ],
       "verified_via": "resume"
     },
     {
       "employer": "Cisco",
-      "role": "CSAP - ASE",
-      "period": "2019 – 2020",
-      "achievements": [],
-      "verified_via": "user_confirmed",
-      "note": "Cisco Sales Associate Program — Associate Systems Engineer"
-    },
-    {
-      "employer": "Cisco",
       "role": "Technical Solutions Specialist",
       "period": "Jan 2020 – Jan 2024",
       "achievements": [
-        "Technical enablement and architecture overviews on Cisco collaboration and integrations",
+        "Technical enablement and architecture overviews on Cisco collaboration solutions and integrations",
         "Supported consultative sales by translating requirements into solution alignment",
         "Represented customer architectural needs in product and engineering roadmap conversations",
-        "Developed integration guidance, deployment documentation, and technical value narratives",
-        "Built internal documentation for global sales engagements"
+        "Developed integration guidance, deployment documentation, and technical value narratives"
       ],
       "verified_via": "resume"
+    },
+    {
+      "employer": "Cisco",
+      "role": "CSAP — Associate Solutions Engineer (ASE)",
+      "period": "2019 – 2020",
+      "achievements": [
+        "Completed Cisco Sales Associate Program as an Associate Solutions Engineer",
+        "Built foundation in pre-sales discovery, technical demos, and solution alignment",
+        "Progressed to Technical Solutions Specialist—the career path today's ASEs develop toward"
+      ],
+      "verified_via": "user_confirmed"
     },
     {
       "employer": "Honeywell",
@@ -93,10 +128,8 @@
       "achievements": [
         "Led cross-functional teams on firmware and embedded systems initiatives",
         "Owned sprint cadence, backlog priorities, and predictable delivery",
-        "Mentored engineers; structured retrospectives and feedback cycles",
-        "Onboarded engineers domestically and internationally",
-        "Python automation reducing test fixture setup from 10 hours to 2 hours",
-        "Provided performance insights to leadership for strategic planning"
+        "Mentored and onboarded engineers domestically and internationally",
+        "Python automation reducing test fixture setup from 10 hours to 2 hours"
       ],
       "verified_via": "resume"
     }
@@ -106,7 +139,7 @@
       "id": "renewal_rate",
       "value": "Below 50% → over 70%",
       "label": "Cisco collaboration platform renewal rates",
-      "description": "By identifying adoption gaps, addressing technical blockers, and aligning architecture decisions to customer business outcomes.",
+      "description": "Post-program career outcome—identifying adoption gaps, addressing technical blockers, and aligning architecture to business outcomes.",
       "verified_via": "resume"
     },
     {
@@ -133,38 +166,57 @@
   ],
   "leadership_style": {
     "section_title": "How I Stand Out",
-    "subtitle": "Empowering teams on the journey to sales enablement excellence",
+    "subtitle": "Building ASE cohorts with energy, clarity, and a path to customer impact",
     "archetypes": [
-      { "name": "Energy Navigator", "description": "Innate sense of group energy; introduces the right spark at the right moment." },
-      { "name": "Frontline Presence", "description": "Thrives with customers, employees, and partners—positive first impressions." },
+      { "name": "Energy Navigator", "description": "Innate sense of group energy; introduces the right spark at the right moment—critical for new ASE cohorts." },
+      { "name": "Frontline Presence", "description": "Thrives with customers, employees, and partners—models the first impressions ASEs must learn." },
       { "name": "Atmosphere Builder", "description": "Tunes meetings, training, and enablement to capture and sustain energy." },
       { "name": "Momentum Driver", "description": "Translates energy into action, adoption, and lasting impact." }
     ],
     "verified_via": "deck_slide_8"
   },
-  "plan_30_60_90": {
-    "type": "target_role_readiness",
-    "context": "From leadership portfolio deck — adapt in interview to SE Manager scope",
+  "plan_180_day": {
+    "title": "My 180-day plan",
+    "subtitle": "First 180 days as SE Manager — Associate Solutions Engineers (ASE) cohort",
+    "type": "se_manager_ase_cohort",
     "phases": {
-      "30": [
-        "Build relationships with GVSE, SP&O, regional managers, and sellers",
-        "Audit enablement assets and adoption data",
-        "Shadow sales teams for real workflows and pain points",
-        "Share What I'm Hearing insights + deliver 1–2 quick wins"
-      ],
-      "60": [
-        "Define mission statement and value proposition",
-        "Design frameworks",
-        "Launch pilot (Live AMA for Mid-Market sellers)",
-        "Strategy update deck linking enablement to KPIs"
-      ],
-      "90": [
-        "Scale onboarding + continuous learning (SMB & Mid-Market)",
-        "Enablement dashboard (ramp time, adoption, renewal impact)",
-        "90-day impact review + 6–12 month roadmap"
-      ]
+      "30": {
+        "label": "Days 1–30 — Listen and learn",
+        "items": [
+          "Build relationships with stakeholders and teammates",
+          "Audit enablement assets and ASE program materials",
+          "Partner with sales teams to identify shadowing opportunities for the cohort",
+          "Share what I'm hearing and seeing, and deliver 1–2 quick wins for ASE ramp"
+        ]
+      },
+      "60": {
+        "label": "Days 31–60 — Design and pilot",
+        "items": [
+          "Define mission statement and value proposition for the ASE team",
+          "Design onboarding and coaching frameworks tailored to CSAP milestones",
+          "Design and launch a pilot (Live AMA for ASEs)",
+          "Strategy update deck linking cohort enablement to KPIs"
+        ]
+      },
+      "90": {
+        "label": "Days 61–90 — Scale and measure",
+        "items": [
+          "Scale onboarding and continuous learning across the ASE cohort",
+          "Stand up enablement dashboard (ramp time, shadow completions, early customer engagement)",
+          "90-day impact review and draft 6–12 month development roadmap"
+        ]
+      },
+      "180": {
+        "label": "Days 91–180 — Deliver and sustain",
+        "items": [
+          "Execute 6–12 month ASE development roadmap with structured coaching cadences",
+          "Measure cohort progress against program milestones and customer-readiness criteria",
+          "Formalize performance development conversations and peer mentorship loops",
+          "Present 180-day impact review with ramp metrics, wins, and recommendations for the next cohort"
+        ]
+      }
     },
-    "verified_via": "deck_slide_9"
+    "verified_via": "user_confirmed"
   },
   "today": {
     "role": "Collaboration Renewals Solutions Engineer",
@@ -174,17 +226,10 @@
       "Drive adoption and reduce renewal risk with global sales and enterprise customers",
       "Partner with Renewals Specialists on collaboration and software architectures",
       "Enable channel partners through technical enablement and GTM alignment",
-      "Develop adoption and mitigation strategies for architectural misalignment",
-      "Coordinate sales, engineering, partner, and customer stakeholders",
-      "Contribute to portfolio strategy for retention and lifecycle value"
+      "Build AI-powered automation for team analysis, reporting, and workflows"
     ],
     "stakeholders": ["Kristin Gioberto", "Ayanna John", "Temi Ajasa", "John Centamore"],
     "stakeholders_note": "From portfolio deck; confirm current names for interview",
-    "growth_areas": [
-      "Scaling formal people-management scope beyond Honeywell team lead experience",
-      "Organizational intelligence at Cisco scale",
-      "Visibility of systems/solutions engineering leadership paths"
-    ],
     "verified_via": "resume_and_deck"
   },
   "legacy": {
@@ -196,16 +241,9 @@
     }
   },
   "narrative": {
-    "core_message": "Kenneth turns group energy into lasting outcomes—8+ years from Honeywell team lead to Cisco Renewals SE, with renewal rates from below 50% to over 70% and a track record of building people, systems, and adoption.",
-    "target_role": "Manager, Systems Engineering / Solutions Engineering"
+    "core_message": "Kenneth turns group energy into lasting outcomes—ASE program graduate ready to lead the next cohort, with Honeywell team-lead experience and Cisco results including renewal rates from below 50% to over 70%.",
+    "target_role": "Systems Engineering Manager — Associate Solutions Engineers (ASE)"
   },
-  "removed_inaccuracies": [
-    "AT&T Wire Technician (not on resume)",
-    "Collab Renewal SE since 2019 (resume: TSS Jan 2020–Jan 2024, Renewals SE Jan 2024–Present)",
-    "114.59% collaboration metric (resume uses 50%→70% renewal rates)",
-    "Firmware Verification Engineer as Honeywell title (resume: Scrum Master and Team Lead)",
-    "Durham NC (not on resume)"
-  ],
   "slides": {
     "3": {
       "motivator_assets": [
