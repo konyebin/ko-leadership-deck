@@ -800,7 +800,10 @@ h3 {
 
 /* Vision */
 .section-vision {
-  background: var(--navy);
+  background:
+    radial-gradient(ellipse 70% 50% at 90% 10%, rgba(233, 113, 50, 0.14) 0%, transparent 55%),
+    radial-gradient(ellipse 60% 40% at 10% 90%, rgba(15, 158, 213, 0.18) 0%, transparent 50%),
+    var(--navy);
 }
 
 .vision-note {
@@ -852,14 +855,66 @@ h3 {
   margin: 2rem 0 1rem;
 }
 
-.why-kenneth p {
-  margin: 0 0 1rem;
-  font-size: 0.98rem;
-  line-height: 1.6;
+.why-kenneth {
+  display: flex;
+  flex-direction: column;
+  gap: 0.75rem;
+  margin-bottom: 1.25rem;
 }
 
-.why-kenneth p:last-child {
-  margin-bottom: 1.25rem;
+.why-pillar {
+  padding: 1rem 1.1rem;
+  border-radius: 10px;
+  background: rgba(0, 0, 0, 0.18);
+  border: 1px solid rgba(255, 255, 255, 0.08);
+}
+
+.why-pillar p {
+  margin: 0;
+  font-size: 0.96rem;
+  line-height: 1.6;
+  color: var(--gray);
+}
+
+.why-pillar-tag {
+  display: inline-block;
+  margin-bottom: 0.5rem;
+  padding: 0.3rem 0.75rem;
+  border-radius: 999px;
+  font-size: 0.78rem;
+  font-weight: 700;
+  letter-spacing: 0.06em;
+  text-transform: uppercase;
+}
+
+.why-pillar--empathy {
+  border-left: 4px solid var(--orange);
+  background: rgba(233, 113, 50, 0.14);
+}
+
+.why-pillar--empathy .why-pillar-tag {
+  background: rgba(233, 113, 50, 0.35);
+  color: #ffd4bc;
+}
+
+.why-pillar--experience {
+  border-left: 4px solid var(--teal-bright);
+  background: rgba(15, 158, 213, 0.12);
+}
+
+.why-pillar--experience .why-pillar-tag {
+  background: rgba(15, 158, 213, 0.35);
+  color: #b8ecff;
+}
+
+.why-pillar--growth {
+  border-left: 4px solid var(--green);
+  background: rgba(78, 167, 46, 0.12);
+}
+
+.why-pillar--growth .why-pillar-tag {
+  background: rgba(78, 167, 46, 0.35);
+  color: #c8f0b8;
 }
 
 .career-blueprint {
@@ -905,8 +960,8 @@ h3 {
 .plan-summary {
   margin: 0 0 2rem;
   padding: 1.15rem 1.35rem;
-  border-left: 4px solid var(--orange);
-  background: rgba(233, 113, 50, 0.08);
+  border-left: 4px solid var(--green);
+  background: rgba(78, 167, 46, 0.1);
   border-radius: 0 10px 10px 0;
 }
 
@@ -945,13 +1000,15 @@ h3 {
   top: 0;
   bottom: 0;
   left: 50%;
-  width: 2px;
+  width: 3px;
   transform: translateX(-50%);
   background: linear-gradient(
     180deg,
     var(--teal-bright) 0%,
-    rgba(15, 158, 213, 0.35) 100%
+    var(--green) 35%,
+    var(--orange) 100%
   );
+  box-shadow: 0 0 12px rgba(15, 158, 213, 0.45);
 }
 
 .plan-step:first-child .plan-step-rail::before {
@@ -961,6 +1018,24 @@ h3 {
 .plan-step-final .plan-step-rail::before {
   bottom: auto;
   height: 1.25rem;
+}
+
+.plan-step:nth-child(1) .plan-step-dot {
+  border-color: var(--teal-bright);
+  color: var(--teal-bright);
+  box-shadow: 0 0 0 4px rgba(15, 158, 213, 0.2);
+}
+
+.plan-step:nth-child(2) .plan-step-dot {
+  border-color: var(--green);
+  color: var(--green);
+  box-shadow: 0 0 0 4px rgba(78, 167, 46, 0.2);
+}
+
+.plan-step:nth-child(3) .plan-step-dot {
+  border-color: #7cb8ff;
+  color: #7cb8ff;
+  box-shadow: 0 0 0 4px rgba(124, 184, 255, 0.2);
 }
 
 .plan-step-dot {
@@ -984,30 +1059,32 @@ h3 {
 .plan-step-final .plan-step-dot {
   border-color: var(--orange);
   color: var(--orange);
-  background: rgba(233, 113, 50, 0.12);
+  background: rgba(233, 113, 50, 0.18);
+  box-shadow: 0 0 0 4px rgba(233, 113, 50, 0.25);
 }
 
 .plan-step-body {
   margin-bottom: 1.5rem;
   padding: 1.35rem 1.5rem;
-  background: rgba(21, 96, 130, 0.18);
-  border: 1px solid rgba(15, 158, 213, 0.28);
+  background: rgba(14, 40, 65, 0.55);
+  border: 1px solid rgba(15, 158, 213, 0.4);
   border-radius: 12px;
+  box-shadow: 0 8px 24px rgba(0, 0, 0, 0.2);
 }
 
 .plan-step-final .plan-step-body {
-  border-color: rgba(233, 113, 50, 0.35);
-  background: rgba(233, 113, 50, 0.08);
+  border-color: rgba(233, 113, 50, 0.5);
+  background: rgba(233, 113, 50, 0.12);
 }
 
 .plan-step-head {
   margin-bottom: 1rem;
   padding-bottom: 0.85rem;
-  border-bottom: 1px solid rgba(15, 158, 213, 0.2);
+  border-bottom: 1px solid rgba(15, 158, 213, 0.35);
 }
 
 .plan-step-final .plan-step-head {
-  border-bottom-color: rgba(233, 113, 50, 0.25);
+  border-bottom-color: rgba(233, 113, 50, 0.4);
 }
 
 .plan-step-days {
@@ -1017,6 +1094,14 @@ h3 {
   letter-spacing: 0.06em;
   text-transform: uppercase;
   color: var(--teal-bright);
+}
+
+.plan-step:nth-child(2) .plan-step-days {
+  color: var(--green);
+}
+
+.plan-step:nth-child(3) .plan-step-days {
+  color: #7cb8ff;
 }
 
 .plan-step-final .plan-step-days {
@@ -1032,14 +1117,7 @@ h3 {
 }
 
 .plan-format-note {
-  margin: 0 0 1.75rem;
-  font-size: 0.9rem;
-  color: var(--gray-muted);
-}
-
-.plan-format-note strong {
-  color: var(--white);
-  font-weight: 600;
+  display: none;
 }
 
 .plan-oak {
@@ -1051,49 +1129,55 @@ h3 {
 .plan-oak-block {
   padding: 0.95rem 1.1rem;
   border-radius: 8px;
-  background: rgba(0, 0, 0, 0.14);
-  border-left: 4px solid var(--teal-bright);
+  border: 1px solid transparent;
 }
 
 .plan-oak-block--objective {
-  border-left-color: var(--teal-bright);
+  border-color: rgba(15, 158, 213, 0.45);
+  background: rgba(15, 158, 213, 0.16);
 }
 
 .plan-oak-block--actions {
-  border-left-color: rgba(255, 255, 255, 0.45);
+  border-color: rgba(78, 167, 46, 0.45);
+  background: rgba(78, 167, 46, 0.12);
 }
 
 .plan-oak-block--deliverables {
-  border-left-color: var(--orange);
-  background: rgba(233, 113, 50, 0.12);
+  border-color: rgba(233, 113, 50, 0.55);
+  background: rgba(233, 113, 50, 0.18);
 }
 
 .plan-oak-label {
-  margin: 0 0 0.45rem;
-  font-size: 0.8rem;
+  display: inline-block;
+  margin: 0 0 0.55rem;
+  padding: 0.25rem 0.65rem;
+  border-radius: 4px;
+  font-size: 0.72rem;
   font-weight: 700;
   letter-spacing: 0.08em;
   text-transform: uppercase;
-  color: var(--white);
 }
 
 .plan-oak-block--objective .plan-oak-label {
-  color: var(--teal-bright);
+  background: rgba(15, 158, 213, 0.45);
+  color: #e8f8ff;
 }
 
 .plan-oak-block--actions .plan-oak-label {
-  color: var(--gray);
+  background: rgba(78, 167, 46, 0.45);
+  color: #e5f8dc;
 }
 
 .plan-oak-block--deliverables .plan-oak-label {
-  color: var(--orange);
+  background: rgba(233, 113, 50, 0.5);
+  color: #ffe8d9;
 }
 
 .plan-oak-text {
   margin: 0;
   font-size: 0.94rem;
   line-height: 1.55;
-  color: var(--gray);
+  color: var(--white);
 }
 
 .plan-oak-list {
@@ -1101,7 +1185,7 @@ h3 {
   padding-left: 1.15rem;
   font-size: 0.94rem;
   line-height: 1.55;
-  color: var(--gray);
+  color: #dce8f0;
 }
 
 .plan-oak-list li + li {
