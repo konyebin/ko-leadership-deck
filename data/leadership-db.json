@@ -128,8 +128,8 @@
       "employer": "Cisco",
       "role": "CSAP - Associate Solutions Engineer (ASE)",
       "achievements": [
-        "Discovery, demos, solution alignment",
-        "Progressed to Collaboration Solutions Engineer (Collab SE)"
+        "Discovery, demos, solution alignment on customer calls",
+        "Supported Global Virtual Engineering on Security and Collaboration: tied solutions to customer scenarios and delivered product info, BOMs, and technical requests for sales teams and partners"
       ],
       "verified_via": "user_confirmed"
     },
@@ -272,45 +272,62 @@
     "verified_via": "deck_slide_8"
   },
   "plan_180_day": {
-    "title": "First 180 days before the cohort starts",
-    "subtitle": "Day 0-180 · prep runway, no ASEs in seat yet",
-    "type": "se_manager_pre_cohort",
-    "range_note": "Prep window before CSAP/ASE cohort day 1. Day 0 through day 180.",
+    "title": "180-Day Plan: Build and Elevate",
+    "vision": "Strengthen and modernize the program so associates build technical expertise, business acumen, and customer-facing confidence earlier. Create a scalable path from ramp to real customer contribution.",
+    "executive_summary": "Assess the program, tighten readiness metrics, pilot improvements with measurable impact, then scale what works. Prioritize earlier customer and executive exposure alongside consultative skill-building. By day 180: clear milestones, standardized coaching, leadership alignment, and a 12-month roadmap.",
+    "type": "se_manager_build_and_elevate",
     "phases": {
-      "0_30": {
-        "label": "Days 0-30, Listen",
-        "items": [
-          "Meet program owners, prior managers, sales leaders who'll host shadows",
-          "Audit CSAP/ASE materials: what's current, what's missing",
-          "Learn cohort timeline: hiring, start date, how many seats",
-          "Shadow active SE teams: refresh what good looks like on calls"
+      "1_30": {
+        "label": "Days 1-30, Assess and Establish Baselines",
+        "objective": "Understand program health, strengths and gaps, and define how success will be measured.",
+        "key_actions": [
+          "Meet program leadership, hiring managers, associates, recent graduates, top SEs, and sales leaders",
+          "Review curriculum, onboarding, technical and business training, customer exposure, coaching, and current metrics",
+          "Identify skill gaps, associate pain points, hiring manager expectations, and readiness opportunities"
+        ],
+        "deliverables": [
+          "Current State Assessment: what works, gaps, what to preserve, where to improve",
+          "Success Metrics Framework: time to first customer engagement, time to independent interaction, associate readiness, manager satisfaction, graduation and placement"
         ]
       },
       "31_60": {
-        "label": "Days 31-60, Build",
-        "items": [
-          "Draft week-by-week onboarding for day 1 of the program",
-          "Coaching rubric tied to CSAP milestones",
-          "Lock shadow roster with sellers before anyone arrives",
-          "Pilot AMA format with other Collab SEs as a stand-in audience"
+        "label": "Days 31-60, Design Targeted Improvements",
+        "objective": "Design enhancements that accelerate customer-facing readiness and business acumen.",
+        "key_actions": [
+          "Increase early customer exposure: discovery, executive conversations, adoption, renewals",
+          "Strengthen business acumen: customer outcomes, industry trends, executive priorities, financial drivers",
+          "Standardize coaching expectations across mentors, managers, and associates"
+        ],
+        "deliverables": [
+          "Associate Development Framework: milestones, competencies, expectations, success criteria",
+          "Coaching and Mentorship Structure: repeatable framework for associate growth and readiness"
         ]
       },
       "61_90": {
-        "label": "Days 61-90, Lock in",
-        "items": [
-          "Dry-run onboarding; fix materials from feedback",
-          "Dashboard spec: what to track from cohort day 1",
-          "Mentor/sponsee matches lined up before start",
-          "Leadership sign-off on KPIs and success metrics"
+        "label": "Days 61-90, Pilot and Measure",
+        "objective": "Validate enhancements and identify what delivers the greatest impact before scaling.",
+        "key_actions": [
+          "Pilot updated onboarding, customer exposure, coaching approaches, and business-focused sessions",
+          "Measure engagement, readiness, confidence, manager feedback, and program outcomes"
+        ],
+        "deliverables": [
+          "Pilot Results Report: successful initiatives, areas to refine, adoption opportunities",
+          "Recommendations for Scale: prioritized by measurable impact and business alignment"
         ]
       },
       "91_180": {
-        "label": "Days 91-180, Ready at go-live",
-        "items": [
-          "Final material pass; handoff docs if out",
-          "Pre-start sync with stakeholders on expectations",
-          "Runbook for the cohort's first 30 days once they're here",
-          "Day-180 checkpoint: ready or not for cohort start"
+        "label": "Days 91-180, Scale, Optimize, and Institutionalize",
+        "objective": "Expand proven initiatives, standardize best practices, and position the program for long-term success.",
+        "key_actions": [
+          "Scale successful enhancements; build playbook, coaching framework, and readiness milestones",
+          "Maintain alignment with program leadership, hiring managers, sales, and alumni",
+          "Assess evolving customer expectations, AI shifts, and SE role requirements; draft 12-month roadmap"
+        ],
+        "deliverables": [
+          "Program Playbook and Standardized Coaching Framework",
+          "Associate Development Milestones",
+          "Quarterly Program Review Process",
+          "12-Month Strategic Roadmap"
         ]
       }
     },
