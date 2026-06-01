@@ -471,18 +471,35 @@ h3 {
 
 @media (min-width: 900px) {
   .who-grid {
-    grid-template-columns: 1.2fr 1fr;
-  }
-  .who-block-motivators {
-    grid-row: span 2;
+    grid-template-columns: 1fr 1fr;
+    align-items: start;
   }
 }
 
 .motivator-gallery {
   display: grid;
-  grid-template-columns: repeat(4, 1fr);
-  gap: 0.5rem;
+  grid-template-columns: repeat(2, 1fr);
+  gap: 0.65rem;
   margin: 1rem 0 1.25rem;
+}
+
+@media (min-width: 600px) {
+  .motivator-gallery {
+    grid-template-columns: repeat(2, 1fr);
+    gap: 0.75rem;
+  }
+}
+
+@media (min-width: 900px) {
+  .motivator-gallery {
+    grid-template-columns: repeat(2, 1fr);
+    gap: 0.85rem;
+  }
+
+  .motivator-gallery figure {
+    aspect-ratio: 5 / 4;
+    min-height: 140px;
+  }
 }
 
 .motivator-gallery figure {
@@ -505,7 +522,7 @@ h3 {
   transform: scale(1.05);
 }
 
-@media (max-width: 600px) {
+@media (max-width: 599px) {
   .motivator-gallery {
     grid-template-columns: repeat(2, 1fr);
   }
